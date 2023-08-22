@@ -59,7 +59,7 @@ class Program
         //     Console.WriteLine(ex);
         //     throw;
         // }
-        //File.WriteAllText("OutputFiles//reserialized-output.json", jsonOutputString);
+        File.WriteAllText("OutputFiles//reserialized-output.json", jsonOutputString);
 
         Console.WriteLine("Environment version: {0} ({1}), {2}", System.Runtime.InteropServices.RuntimeInformation.FrameworkDescription , Environment.Version, Environment.OSVersion);
         Console.WriteLine("System.Text.Json version: " + typeof(JsonSerializer).Assembly.FullName);
