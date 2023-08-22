@@ -1,0 +1,2871 @@
+{
+   "checksum": "fedcfafdccb0c561520e87eb98696f1c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13267247704000000",
+               "date_last_used": "0",
+               "guid": "8a418b02-c613-482a-a744-fcc8c2bc8f86",
+               "id": "3",
+               "name": "Beginner's Health and Fitness Guide",
+               "type": "url",
+               "url": "http://liamrosen.com/fitness.html#exercise"
+            }, {
+               "date_added": "13267247707000000",
+               "date_last_used": "0",
+               "guid": "54bcd353-c3c1-450e-acb6-ee77c4e2a4bc",
+               "id": "4",
+               "name": "Sean10mm's Fitness Blog: Rippetoe's Starting Strength revisited",
+               "type": "url",
+               "url": "https://newbie-fitness.blogspot.com/2006/12/rippetoes-starting-strength.html?m=1"
+            }, {
+               "date_added": "13267247697000000",
+               "date_last_used": "0",
+               "guid": "e03074ae-51db-4770-bb81-64c8fa65a008",
+               "id": "5",
+               "name": "12 Rules For Gaining Strength | Maximum Potential Calisthenics",
+               "type": "url",
+               "url": "https://www.mpcalisthenics.com/strength-training/12-rules-for-gaining-strength"
+            }, {
+               "date_added": "13267247694000000",
+               "date_last_used": "13335424051181707",
+               "guid": "e2eea059-b969-4957-8782-d7abbe0e4715",
+               "id": "6",
+               "name": "This At-Home Pushups Routine Builds Chest Muscle With No Gear",
+               "type": "url",
+               "url": "https://www.menshealth.com/fitness/a32020032/at-home-chest-workout/"
+            }, {
+               "date_added": "13267247687000000",
+               "date_last_used": "0",
+               "guid": "2b4cfa34-007a-458e-b467-bd5aad42e722",
+               "id": "7",
+               "name": "Proper sleep supplement reviews - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=Proper+sleep+supplement+reviews&sa=X&ved=2ahUKEwiO6dS48vjwAhVaXM0KHYu3BQwQ1QIwG3oECCUQAQ&biw=360&bih=706"
+            }, {
+               "date_added": "13267247684000000",
+               "date_last_used": "0",
+               "guid": "d3b3f5ba-a2cb-474f-9804-c25052afa1cd",
+               "id": "8",
+               "name": "5 core exercises for beginners",
+               "type": "url",
+               "url": "https://www.runnersworld.com/uk/training/g28095895/abs-workout-beginners/"
+            }, {
+               "date_added": "13267247682000000",
+               "date_last_used": "0",
+               "guid": "0b804d4f-f9bf-4c2a-aaac-35af3e796318",
+               "id": "9",
+               "name": "10 Core Exercises For Beginners: The ultimate workout",
+               "type": "url",
+               "url": "https://www.google.com/amp/s/amp.redbull.com/us-en/best-core-exercises-for-beginners"
+            }, {
+               "date_added": "13267247710000000",
+               "date_last_used": "0",
+               "guid": "3b3bf656-daa4-47b1-a6a4-af228fbc28e7",
+               "id": "10",
+               "name": "/plg/ OP 2020 - Pastebin.com",
+               "type": "url",
+               "url": "https://pastebin.com/V84Y0J9Y"
+            }, {
+               "date_added": "13271306830000000",
+               "date_last_used": "13335423385208179",
+               "guid": "f3a17b2c-fd1a-47de-82fb-6cf731606ae1",
+               "id": "11",
+               "name": "A Ketogenic Diet for Beginners: The #1 Keto Guide - Diet Doctor",
+               "type": "url",
+               "url": "https://www.dietdoctor.com/low-carb/keto"
+            }, {
+               "date_added": "13271306832000000",
+               "date_last_used": "13335423354495809",
+               "guid": "5b72528d-f87b-40e9-92f6-72af70a50634",
+               "id": "12",
+               "name": "Keto Vegetables – The Visual Guide to the Best and Worst – Diet Doctor",
+               "type": "url",
+               "url": "https://www.dietdoctor.com/low-carb/keto/vegetables"
+            } ],
+            "date_added": "13326512393386946",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "077b2c45-1450-441a-8f14-ed146f2dfc90",
+            "id": "2",
+            "name": "Fitness",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13154831381000000",
+               "date_last_used": "0",
+               "guid": "c5b43c8c-305e-4605-b6dc-14dbb1a04f85",
+               "id": "14",
+               "name": "Steve Pavlina - Personal Development for Smart People",
+               "type": "url",
+               "url": "https://www.stevepavlina.com/"
+            }, {
+               "date_added": "13157417938000000",
+               "date_last_used": "0",
+               "guid": "93d138e6-ba4b-458b-ad5d-cda1c6b6e3da",
+               "id": "15",
+               "name": "11 Tweaks to Your Morning Routine Will Make Your Entire Day More Productive",
+               "type": "url",
+               "url": "https://medium.com/the-mission/11-tweaks-to-your-morning-routine-will-make-your-entire-day-more-productive-938f7c1d066a"
+            }, {
+               "date_added": "13157439842000000",
+               "date_last_used": "0",
+               "guid": "dced2808-825a-4371-be68-637ea8508b8e",
+               "id": "16",
+               "name": "7 Keystone Habits to Maximize Your Mornings – The Mission – Medium",
+               "type": "url",
+               "url": "https://medium.com/the-mission/7-keystone-habits-to-maximize-your-mornings-42165677c336"
+            }, {
+               "date_added": "13159996087000000",
+               "date_last_used": "0",
+               "guid": "cfcfed88-e0e6-48ae-b57f-0907eae2545b",
+               "id": "17",
+               "name": "‘Most of us are too busy to be better’: the lazy person's guide to self-improvement | Life and style | The Guardian",
+               "type": "url",
+               "url": "https://www.theguardian.com/lifeandstyle/2018/jan/06/too-busy-lazy-person-guide-self-improvement"
+            }, {
+               "date_added": "13160022125000000",
+               "date_last_used": "0",
+               "guid": "42056021-0649-4344-8178-41e6e11b3f18",
+               "id": "18",
+               "name": "Unwavering Focus | Dandapani | TEDxReno - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=4O2JK_94g3Y"
+            }, {
+               "date_added": "13173047180000000",
+               "date_last_used": "0",
+               "guid": "be095dc3-20d0-4bc0-862a-5d3fedd88eb8",
+               "id": "19",
+               "name": ": Scott Shapiro Helping Adults With ADHD ",
+               "type": "url",
+               "url": "http://www.scottshapiromd.com/"
+            }, {
+               "date_added": "13143846168000000",
+               "date_last_used": "0",
+               "guid": "20c2fdec-69f2-4555-b974-b560a8af1fa8",
+               "id": "20",
+               "name": "Cultivating Mental Discipline",
+               "type": "url",
+               "url": "http://www.bemindful.org/mind.html"
+            }, {
+               "date_added": "13182878310000000",
+               "date_last_used": "0",
+               "guid": "5f76a20a-1f27-48f0-8d62-5d415991f7c8",
+               "id": "21",
+               "name": "Why Your Memory Sucks (and What You Can Do About It)",
+               "type": "url",
+               "url": "https://lifehacker.com/why-your-memory-sucks-and-what-you-can-do-about-it-596782066"
+            }, {
+               "date_added": "13182876845000000",
+               "date_last_used": "0",
+               "guid": "0a0c0c6c-5e94-42d8-a2e1-bb02c6b9a1e0",
+               "id": "22",
+               "name": "11 Great Ways to Improve Your Memory",
+               "type": "url",
+               "url": "https://www.verywellmind.com/great-ways-to-improve-your-memory-2795356"
+            }, {
+               "date_added": "13168054512000000",
+               "date_last_used": "0",
+               "guid": "4a2d073c-6e8a-42b6-8fac-2152582ce886",
+               "id": "23",
+               "name": "How to become mentally strong: 3 secrets from neuroscience | Ladders",
+               "type": "url",
+               "url": "https://www.theladders.com/career-advice/this-is-how-to-become-mentally-strong-3-secrets-from-neuroscience"
+            }, {
+               "date_added": "13197016966000000",
+               "date_last_used": "0",
+               "guid": "7133bfcb-584d-459a-975c-ab3b591efc50",
+               "id": "24",
+               "name": "Stop Being So Distracted - Darius Foroux",
+               "type": "url",
+               "url": "https://dariusforoux.com/stop-being-so-distracted/"
+            }, {
+               "date_added": "13196759478000000",
+               "date_last_used": "0",
+               "guid": "c8f0a506-6ed9-45d8-9928-ad453e147aa5",
+               "id": "25",
+               "name": "How To Beat Procrastination (Backed by Science) - Darius Foroux - Pocket",
+               "type": "url",
+               "url": "https://getpocket.com/explore/item/how-to-beat-procrastination-backed-by-science"
+            }, {
+               "date_added": "13184871425000000",
+               "date_last_used": "0",
+               "guid": "ce1f31fe-a167-4971-a8d2-d430998b71c7",
+               "id": "26",
+               "name": "The Science of Developing Mental Toughness in Health, Work, and Life",
+               "type": "url",
+               "url": "https://jamesclear.com/mental-toughness"
+            }, {
+               "date_added": "13291699287000000",
+               "date_last_used": "0",
+               "guid": "62cf3cba-40b8-4f6a-b3c7-1f7685cdbe7c",
+               "id": "27",
+               "name": "The Woman Who Changed Her Brain: Barbara Arrowsmith-Young at TEDxToronto - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=o0td5aw1KXA"
+            }, {
+               "date_added": "13291699298000000",
+               "date_last_used": "0",
+               "guid": "a9737165-8c0b-4a78-884e-67ec41660e8f",
+               "id": "28",
+               "name": "Improving our neuroplasticity | Dr. Kelly Lambert | TEDxBermuda - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=gOJL3gjc8ak"
+            }, {
+               "date_added": "13291699300000000",
+               "date_last_used": "0",
+               "guid": "4fee1f06-2885-4205-a960-cd5113bb2258",
+               "id": "29",
+               "name": "Happy Brain: How to Overcome Our Neural Predispositions to Suffering | Amit Sood, MD | TEDxUNI - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=KZIGekgoaz4"
+            }, {
+               "date_added": "13291699303000000",
+               "date_last_used": "0",
+               "guid": "7ca209af-c96d-48e9-a1ee-80451270c9c4",
+               "id": "30",
+               "name": "Top 10 Tips to Keep Your Brain Young | Elizabeth Amini | TEDxSoCal - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=2tcEgqTWbxQ"
+            }, {
+               "date_added": "13291699306000000",
+               "date_last_used": "0",
+               "guid": "9821d995-859f-4e77-b832-e59ba0703949",
+               "id": "31",
+               "name": "Bio | Barbara Arrowsmith-Young",
+               "type": "url",
+               "url": "https://barbaraarrowsmithyoung.com/bio/"
+            }, {
+               "date_added": "13291699308000000",
+               "date_last_used": "0",
+               "guid": "d273d78e-0e47-40f2-a457-ee8d112aa255",
+               "id": "32",
+               "name": "How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=JsC9ZHi79jo"
+            }, {
+               "date_added": "13291699311000000",
+               "date_last_used": "0",
+               "guid": "7ef1dae0-2f62-4138-a2a8-91e3475c82f3",
+               "id": "33",
+               "name": "Dementia is preventable through lifestyle. Start now. | Max Lugavere | TEDxVeniceBeach - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=f0WCb23KPEw"
+            }, {
+               "date_added": "13291699315000000",
+               "date_last_used": "0",
+               "guid": "09546df2-ad87-47de-829e-cc6899788125",
+               "id": "34",
+               "name": "Anastasia Woolmer - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=Anastasia+Woolmer&source=hp&ei=DnEuYrKvO8Kl_Qa5iojoDQ&iflsig=AHkkrS4AAAAAYi5_HnMPsa-yUFwhMVVjaE1PdbcTRwUa&ved=0ahUKEwiy7oqlksT2AhXCUt8KHTkFAt0Q4dUDCAk&uact=5&oq=Anastasia+Woolmer&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEBYQHjIGCAAQFhAeUABYAGCDBmgAcAB4AIABU4gBU5IBATGYAQCgAQKgAQE&sclient=gws-wiz"
+            }, {
+               "date_added": "13291699318000000",
+               "date_last_used": "0",
+               "guid": "e0131886-f66d-404e-bb26-992d1c2696a5",
+               "id": "35",
+               "name": "How to remember | Memory techniques - Anastasia Woolmer's Blog",
+               "type": "url",
+               "url": "https://anastasiawoolmer.com/memory-blog/"
+            }, {
+               "date_added": "13291699322000000",
+               "date_last_used": "0",
+               "guid": "d3b144a7-5d32-4a78-be7c-f2892cddc644",
+               "id": "36",
+               "name": "Memory Palace Software for Spaced Repetition and Brain Training | Art of Memory",
+               "type": "url",
+               "url": "https://artofmemory.com/software/"
+            }, {
+               "date_added": "13291699325000000",
+               "date_last_used": "0",
+               "guid": "f71fc97a-6a4f-49f5-a96d-d8dd558ba873",
+               "id": "37",
+               "name": "Memory Training Courses with Anastasia Woolmer",
+               "type": "url",
+               "url": "https://anastasiawoolmer.com/"
+            } ],
+            "date_added": "13326512393387835",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "0405c9b9-3986-4512-a072-e2e71d89fc39",
+            "id": "13",
+            "name": "Health",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13190976159000000",
+               "date_last_used": "0",
+               "guid": "0c23b01b-ac1f-4797-bf52-740a44905a14",
+               "id": "39",
+               "name": "Library Genesis",
+               "type": "url",
+               "url": "http://gen.lib.rus.ec/"
+            }, {
+               "date_added": "13196705274000000",
+               "date_last_used": "0",
+               "guid": "4570a23f-d476-42ec-9f7a-3b6370f98ab0",
+               "id": "40",
+               "name": "The Best Textbooks on Every Subject - LessWrong 2.0",
+               "type": "url",
+               "url": "https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject"
+            }, {
+               "date_added": "13197971557000000",
+               "date_last_used": "0",
+               "guid": "667594b7-31a2-4c03-96d2-02f35e60dd36",
+               "id": "41",
+               "name": "A Guide to Self Study Mathematics",
+               "type": "url",
+               "url": "https://www.physicsforums.com/insights/how-to-study-mathematics/"
+            }, {
+               "date_added": "13305426333000000",
+               "date_last_used": "0",
+               "guid": "e963a9db-8302-4b86-847e-9211456368e3",
+               "id": "42",
+               "name": "Electronic library. Download books free. Finding books",
+               "type": "url",
+               "url": "https://3lib.net/"
+            }, {
+               "date_added": "13305426346000000",
+               "date_last_used": "0",
+               "guid": "78c28dc5-3e54-470d-960c-656d3519804f",
+               "id": "43",
+               "name": "Library Genesis",
+               "type": "url",
+               "url": "https://libgen.gs/"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13288758353000000",
+                        "date_last_used": "0",
+                        "guid": "15556c3d-f702-4ed6-8039-e2e79430a807",
+                        "id": "47",
+                        "name": "CS410 Yellow Group",
+                        "type": "url",
+                        "url": "https://www.cs.odu.edu/~410yello/"
+                     }, {
+                        "date_added": "13286347778000000",
+                        "date_last_used": "0",
+                        "guid": "f7978909-23f7-49f9-87ce-00582a85c3ec",
+                        "id": "48",
+                        "name": "CS 410 Modules",
+                        "type": "url",
+                        "url": "https://www.blackboard.odu.edu/ultra/courses/_394315_1/cl/outline"
+                     }, {
+                        "date_added": "13288838129000000",
+                        "date_last_used": "0",
+                        "guid": "9dc7c9db-b22e-4ec7-91d9-802c38eee886",
+                        "id": "49",
+                        "name": "My Drive - Google Drive",
+                        "type": "url",
+                        "url": "https://drive.google.com/drive/my-drive?ths=true"
+                     }, {
+                        "date_added": "13288838138000000",
+                        "date_last_used": "0",
+                        "guid": "92a9d6ed-fd47-4b4d-bc2d-30efee886f98",
+                        "id": "50",
+                        "name": "CS410 Yellow Group - Google Drive",
+                        "type": "url",
+                        "url": "https://drive.google.com/drive/folders/13I-QzfGkD8AJjm8BqpgxcvnPHwMUFgkS?ths=true"
+                     } ],
+                     "date_added": "13326512393389604",
+                     "date_last_used": "0",
+                     "date_modified": "0",
+                     "guid": "91384397-d0d0-49f0-8cf2-edb3456de282",
+                     "id": "46",
+                     "name": "CS410",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13288940081000000",
+                        "date_last_used": "0",
+                        "guid": "8c4a6ed7-f560-488c-a12f-f361016ade40",
+                        "id": "52",
+                        "name": "CS390 Outline",
+                        "type": "url",
+                        "url": "https://www.cs.odu.edu/~zeil/cs390/latest/Directory/outline/"
+                     } ],
+                     "date_added": "13326512393389777",
+                     "date_last_used": "0",
+                     "date_modified": "0",
+                     "guid": "25532af0-2526-419f-b1a8-c8deaf4e90b8",
+                     "id": "51",
+                     "name": "CS390",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13292561498000000",
+                        "date_last_used": "0",
+                        "guid": "7f7faf0a-39b5-43b1-9715-4c003d3ccc4a",
+                        "id": "54",
+                        "name": "CS330 Outline",
+                        "type": "url",
+                        "url": "https://www.cs.odu.edu/~tkennedy/cs330/latest/Directory/outline/"
+                     } ],
+                     "date_added": "13326512393389839",
+                     "date_last_used": "0",
+                     "date_modified": "0",
+                     "guid": "165f0e85-798e-4730-80cf-24662ae0976b",
+                     "id": "53",
+                     "name": "CS330",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13232666279000000",
+                     "date_last_used": "0",
+                     "guid": "f07f9c5e-7bfe-4999-8bc7-f13a2bed281d",
+                     "id": "55",
+                     "name": "CS361 Outline",
+                     "type": "url",
+                     "url": "https://www.cs.odu.edu/~zeil/cs361/sum18/Directory/outline/"
+                  } ],
+                  "date_added": "13326512393389579",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "8cecb3ab-d40c-4c55-abd9-2f0859a37064",
+                  "id": "45",
+                  "name": "Spring 2022",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13297394884000000",
+                     "date_last_used": "0",
+                     "guid": "16762c81-b3b7-4b84-9202-be3b930ad14c",
+                     "id": "57",
+                     "name": "CS417 Outline",
+                     "type": "url",
+                     "url": "https://www.cs.odu.edu/~tkennedy/cs417/sum22/Directory/outline/"
+                  } ],
+                  "date_added": "13326512393389938",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "f964849c-6115-448f-9855-ba19c30fb35a",
+                  "id": "56",
+                  "name": "Summer 2022",
+                  "type": "folder"
+               } ],
+               "date_added": "13326512393389555",
+               "date_last_used": "0",
+               "date_modified": "13326512393389555",
+               "guid": "5a3cf802-49bd-4d43-8312-8f9d1c89efef",
+               "id": "44",
+               "name": "ODU",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13296000350000000",
+                  "date_last_used": "0",
+                  "guid": "d5500dbc-1c18-47db-a3f5-838e03d083db",
+                  "id": "59",
+                  "name": "SproutShare | Trello",
+                  "type": "url",
+                  "url": "https://trello.com/b/Y5Kkan1D/sproutshare"
+               }, {
+                  "date_added": "13311093407000000",
+                  "date_last_used": "0",
+                  "guid": "47b16742-378c-4382-8469-1ff8600d5756",
+                  "id": "60",
+                  "name": "Google Drive: Sign-in",
+                  "type": "url",
+                  "url": "https://accounts.google.com/v3/signin/identifier?dsh=S1678325964%3A1666619806284387&continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F13I-QzfGkD8AJjm8BqpgxcvnPHwMUFgkS&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F13I-QzfGkD8AJjm8BqpgxcvnPHwMUFgkS&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWqYRoxPBGFyJsQlEXFSIkWli8pn2P2M0KAKKPKB3oSzj6jFIhkGUHBAzq0Dc-c0NvYzyGCsCA"
+               } ],
+               "date_added": "13326512393390000",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "d838a11d-76fe-4f4e-99b3-25cc3bb30b8f",
+               "id": "58",
+               "name": "SproutShare",
+               "type": "folder"
+            }, {
+               "date_added": "13318887228000000",
+               "date_last_used": "0",
+               "guid": "add2acb4-4ded-44f1-b630-58c1b166bc44",
+               "id": "61",
+               "name": "Udemy FREE Download - GetFreeCourses.Co",
+               "type": "url",
+               "url": "https://getfreecourses.co/"
+            } ],
+            "date_added": "13326512393389202",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "838c5368-e4c6-4b7c-b3bd-75e8e05a4fb3",
+            "id": "38",
+            "name": "Academic",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13237018428000000",
+               "date_last_used": "0",
+               "guid": "b58b4272-d1ca-4908-a6c4-8b4295019e84",
+               "id": "63",
+               "name": "Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM&t=7179s"
+            }, {
+               "children": [ {
+                  "date_added": "13255918540000000",
+                  "date_last_used": "0",
+                  "guid": "6f575b0f-2dfd-4b7b-993e-f4b462c46e5e",
+                  "id": "65",
+                  "name": "JDK 15 Documentation - Home",
+                  "type": "url",
+                  "url": "https://docs.oracle.com/en/java/javase/15/index.html"
+               }, {
+                  "date_added": "13281067538000000",
+                  "date_last_used": "0",
+                  "guid": "1b9e0ea0-5635-4a67-9338-cc5b2bb352a2",
+                  "id": "66",
+                  "name": "JavaFX Java GUI Tutorial ",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=FLkOX4Eez6o&list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG"
+               }, {
+                  "date_added": "13282182053000000",
+                  "date_last_used": "0",
+                  "guid": "4d4bf13d-000a-4d7a-99c9-c062033c08a4",
+                  "id": "67",
+                  "name": "JavaFX Java GUI Design Tutorials - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG"
+               } ],
+               "date_added": "13326512393390369",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "08a6c845-8c7f-43fe-a46b-ef27d7fe247a",
+               "id": "64",
+               "name": "Java",
+               "type": "folder"
+            }, {
+               "date_added": "13253585206000000",
+               "date_last_used": "0",
+               "guid": "ad568643-8bdc-4ce4-9611-e7746d5bce7c",
+               "id": "68",
+               "name": "GitHub - tuvtran/project-based-learning: Curated list of project-based tutorials",
+               "type": "url",
+               "url": "https://github.com/tuvtran/project-based-learning"
+            }, {
+               "children": [ {
+                  "date_added": "13253666749000000",
+                  "date_last_used": "0",
+                  "guid": "b90cc0e5-a20a-49d0-a166-d64900be8845",
+                  "id": "70",
+                  "name": "Create a console calculator in C++ | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/cpp/get-started/tutorial-console-cpp?view=msvc-160&viewFallbackFrom=vs-2019"
+               }, {
+                  "date_added": "13253583851000000",
+                  "date_last_used": "0",
+                  "guid": "44efc381-460e-4cd7-bb4f-c602af7e3f82",
+                  "id": "71",
+                  "name": "Build Your Own Text Editor",
+                  "type": "url",
+                  "url": "https://viewsourcecode.org/snaptoken/kilo/"
+               }, {
+                  "date_added": "13253585223000000",
+                  "date_last_used": "0",
+                  "guid": "2b18bb57-5868-439d-9c62-58c5db9ce246",
+                  "id": "72",
+                  "name": "GitHub - rby90/project-based-tutorials-in-c: A curated list of project-based tutorials in C",
+                  "type": "url",
+                  "url": "https://github.com/rby90/Project-Based-Tutorials-in-C"
+               }, {
+                  "date_added": "13253670194000000",
+                  "date_last_used": "0",
+                  "guid": "ca26f97e-e486-4d0b-bf3f-5460a70ce01a",
+                  "id": "73",
+                  "name": "Getting Started with Visual Studio for C and C++ Development | C++ Team Blog",
+                  "type": "url",
+                  "url": "https://devblogs.microsoft.com/cppblog/getting-started-with-visual-studio-for-c-and-cpp-development/"
+               }, {
+                  "date_added": "13253583041000000",
+                  "date_last_used": "0",
+                  "guid": "aab1f0b5-867a-4696-a547-3112a212c624",
+                  "id": "74",
+                  "name": "C++ documentation — DevDocs",
+                  "type": "url",
+                  "url": "https://devdocs.io/cpp/"
+               }, {
+                  "date_added": "13197540035000000",
+                  "date_last_used": "0",
+                  "guid": "8316baa8-4796-4892-a69c-7961ed86064c",
+                  "id": "75",
+                  "name": "C++ Language - C++ Tutorials",
+                  "type": "url",
+                  "url": "http://www.cplusplus.com/doc/tutorial/"
+               }, {
+                  "date_added": "13225777909000000",
+                  "date_last_used": "0",
+                  "guid": "e72d5987-333d-4cdd-ac6e-ab96957bf012",
+                  "id": "76",
+                  "name": "Problem Solving with Algorithms and Data Structures using C++ — Problem Solving with Algorithms and Data Structures using C++",
+                  "type": "url",
+                  "url": "https://runestone.academy/runestone/books/published/cppds/index.html"
+               }, {
+                  "date_added": "13309308413000000",
+                  "date_last_used": "0",
+                  "guid": "04228b00-c8f7-4c19-bbad-cbef120da017",
+                  "id": "77",
+                  "name": "Handmade Hero",
+                  "type": "url",
+                  "url": "https://handmadehero.org/"
+               }, {
+                  "date_added": "13317175941000000",
+                  "date_last_used": "0",
+                  "guid": "2a638701-e885-4b88-9948-294360771f61",
+                  "id": "78",
+                  "name": "Introduction to dynamic two dimensional arrays in C++ - CodeProject",
+                  "type": "url",
+                  "url": "https://www.codeproject.com/Articles/21909/Introduction-to-dynamic-two-dimensional-arrays-in"
+               }, {
+                  "date_added": "13317420634000000",
+                  "date_last_used": "0",
+                  "guid": "85c3dc37-128c-463d-ad06-195e36b5c690",
+                  "id": "79",
+                  "name": "GitHub - suzana-ilic/cpp: C++ projects for beginners",
+                  "type": "url",
+                  "url": "https://github.com/suzana-ilic/cpp"
+               }, {
+                  "date_added": "13317503634000000",
+                  "date_last_used": "0",
+                  "guid": "7beec1ea-a03a-42d8-9cbc-bf50b8ef1a37",
+                  "id": "80",
+                  "name": "Dynamic memory allocation in C++ for 2D and 3D array | Techie Delight",
+                  "type": "url",
+                  "url": "https://www.techiedelight.com/dynamic-memory-allocation-in-c-for-2d-3d-array/"
+               }, {
+                  "date_added": "13318407340000000",
+                  "date_last_used": "0",
+                  "guid": "0a9d90fd-529b-4a03-8c01-3c20842415cb",
+                  "id": "81",
+                  "name": "Get Started with Win32 and C++ - Win32 apps | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/windows/win32/learnwin32/learn-to-program-for-windows"
+               }, {
+                  "date_added": "13318666524000000",
+                  "date_last_used": "0",
+                  "guid": "5b01bb4e-8a89-4dff-85a8-679c46690606",
+                  "id": "82",
+                  "name": "[EN] C++ developer mindmap, Online Whiteboard for Visual Collaboration",
+                  "type": "url",
+                  "url": "https://miro.com/app/board/o9J_lpap34Q=/"
+               }, {
+                  "date_added": "13318821355000000",
+                  "date_last_used": "0",
+                  "guid": "f78746fb-f74e-4914-9d6a-55a498e8551b",
+                  "id": "83",
+                  "name": "Bryan Cairns | Computer Guru | Udemy",
+                  "type": "url",
+                  "url": "https://www.udemy.com/user/bryan-cairns/"
+               }, {
+                  "date_added": "13318823452000000",
+                  "date_last_used": "0",
+                  "guid": "e2fb2147-64d9-4607-b8f1-bd334a0c77d1",
+                  "id": "84",
+                  "name": "Qt 6 With C++ - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLUbFnGajtZlXbrbdlraCe3LMC_YH5abao"
+               }, {
+                  "date_added": "13318887222000000",
+                  "date_last_used": "0",
+                  "guid": "5bf6abbd-e6b1-4428-9ec3-db1916da9899",
+                  "id": "85",
+                  "name": "DESIGN PATTERNS IN MODERN C++ Udemy Free Courses",
+                  "type": "url",
+                  "url": "https://getfreecourses.co/design-patterns-in-modern-c-1/"
+               }, {
+                  "date_added": "13319341930000000",
+                  "date_last_used": "0",
+                  "guid": "d1f4af39-e1ac-48d3-b02e-ec2cf66f4d22",
+                  "id": "86",
+                  "name": "Qt 6 Core Intermediate with C++",
+                  "type": "url",
+                  "url": "https://ok.ru/video/c8651961"
+               }, {
+                  "date_added": "13319426706000000",
+                  "date_last_used": "0",
+                  "guid": "278ae630-f173-465d-89be-a32a758bb8fa",
+                  "id": "87",
+                  "name": "Using SDL2 in C (and with C++, too) - DEV Community 👩‍💻👨‍💻",
+                  "type": "url",
+                  "url": "https://dev.to/noah11012/using-sdl2-in-c-and-with-c-too-1l72"
+               } ],
+               "date_added": "13326512393390555",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "8b246c38-6e11-467b-9d1c-83ebf4d8e96f",
+               "id": "69",
+               "name": "C++/C",
+               "type": "folder"
+            }, {
+               "date_added": "13253670202000000",
+               "date_last_used": "0",
+               "guid": "27e8ed55-cccb-46a3-91f3-775caf59bc2b",
+               "id": "88",
+               "name": "How to Start a Software Developer Career (Complete Guide for 2020)",
+               "type": "url",
+               "url": "https://yourbrainoncomputers.com/how-to-become-a-software-developer-in-2020/"
+            }, {
+               "date_added": "13254369317000000",
+               "date_last_used": "0",
+               "guid": "613e6298-6144-40a6-8886-60ff60beb301",
+               "id": "89",
+               "name": "InstallGentoo Wiki",
+               "type": "url",
+               "url": "https://wiki.installgentoo.com/wiki/Main_Page"
+            }, {
+               "date_added": "13275620692000000",
+               "date_last_used": "0",
+               "guid": "b51f1f8d-a231-47ce-a02c-ca0215dc8156",
+               "id": "90",
+               "name": "10,000+ Coding Practice Challenges // Edabit",
+               "type": "url",
+               "url": "https://edabit.com/challenges"
+            }, {
+               "children": [ {
+                  "date_added": "13276458346000000",
+                  "date_last_used": "0",
+                  "guid": "ae1ff31e-eccb-43e6-a2b2-b969dac83e76",
+                  "id": "92",
+                  "name": "TicTacToe - Design Discussion Notes",
+                  "type": "url",
+                  "url": "https://www.cs.odu.edu/~tkennedy/cs330/f19/Public/designDiscussion/index.html"
+               } ],
+               "date_added": "13326512393391643",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "50138b68-bee3-4692-8ada-474f4805732a",
+               "id": "91",
+               "name": "Design",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275794313000000",
+                  "date_last_used": "0",
+                  "guid": "6d164186-217a-4b06-950d-521a5e8f2c2d",
+                  "id": "94",
+                  "name": "Git - About Version Control",
+                  "type": "url",
+                  "url": "https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control"
+               }, {
+                  "date_added": "13275796470000000",
+                  "date_last_used": "0",
+                  "guid": "116a2adc-8faf-400b-aa6f-b6eadf63c99e",
+                  "id": "95",
+                  "name": "git-cheat-sheet-education",
+                  "type": "url",
+                  "url": "https://education.github.com/git-cheat-sheet-education.pdf"
+               } ],
+               "date_added": "13326512393391711",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "bb3b4c50-7562-4c5b-be44-c89026ceaadc",
+               "id": "93",
+               "name": "Git",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275791516000000",
+                  "date_last_used": "0",
+                  "guid": "92ea5959-37b0-4d5a-adf4-a8ff46851b47",
+                  "id": "97",
+                  "name": "BASH Reference",
+                  "type": "url",
+                  "url": "https://files.fosswire.com/2007/08/fwunixref.pdf"
+               }, {
+                  "date_added": "13275791186000000",
+                  "date_last_used": "0",
+                  "guid": "4535cf5f-4ee5-475d-a07c-c7f10526ef01",
+                  "id": "98",
+                  "name": "Chapter 1: Basics and Navigation | Conquering the Command Line | Softcover.io",
+                  "type": "url",
+                  "url": "https://www.softcover.io/read/fc6c09de/unix_commands/basics"
+               }, {
+                  "date_added": "13275791487000000",
+                  "date_last_used": "0",
+                  "guid": "f51e3b30-d3ef-43e6-a0a5-eb33170dc031",
+                  "id": "99",
+                  "name": "GitHub - jlevy/the-art-of-command-line: Master the command line, in one page",
+                  "type": "url",
+                  "url": "https://github.com/jlevy/the-art-of-command-line#readme"
+               } ],
+               "date_added": "13326512393391813",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "85b8de88-a4a1-4382-9950-fe55f19099ed",
+               "id": "96",
+               "name": "CLI",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13202366306000000",
+                  "date_last_used": "0",
+                  "guid": "07c491f3-2d22-433a-ba75-aed7eb188b2d",
+                  "id": "101",
+                  "name": "Ubuntu",
+                  "type": "url",
+                  "url": "http://www.ubuntu.com/"
+               }, {
+                  "date_added": "13202366306000000",
+                  "date_last_used": "0",
+                  "guid": "55533909-04e8-41d5-9a93-45860c08cea9",
+                  "id": "102",
+                  "name": "Ubuntu Wiki (community-edited website)",
+                  "type": "url",
+                  "url": "http://wiki.ubuntu.com/"
+               }, {
+                  "date_added": "13202366306000000",
+                  "date_last_used": "0",
+                  "guid": "5f87796a-3329-42af-aebd-71de4267f72f",
+                  "id": "103",
+                  "name": "Make a Support Request to the Ubuntu Community",
+                  "type": "url",
+                  "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+               }, {
+                  "date_added": "13202366306000000",
+                  "date_last_used": "0",
+                  "guid": "ad7acced-ea93-4f74-85d9-e232128ca7cf",
+                  "id": "104",
+                  "name": "Debian (Ubuntu is based on Debian)",
+                  "type": "url",
+                  "url": "http://www.debian.org/"
+               }, {
+                  "date_added": "13220605640000000",
+                  "date_last_used": "0",
+                  "guid": "e878a39a-24a4-4a5e-8de7-a24a91d0e9de",
+                  "id": "105",
+                  "name": "CS252 Outline",
+                  "type": "url",
+                  "url": "https://www.cs.odu.edu/~zeil/cs252/latest/Directory/outline/index.html"
+               }, {
+                  "date_added": "13231364528000000",
+                  "date_last_used": "0",
+                  "guid": "08ce5efa-6be0-4f14-8a6b-73bbdd620c17",
+                  "id": "106",
+                  "name": "Debian (Ubuntu is based on Debian)",
+                  "type": "url",
+                  "url": "http://www.debian.org/"
+               }, {
+                  "date_added": "13231364528000000",
+                  "date_last_used": "0",
+                  "guid": "bcd05408-1c9f-4a1e-ba9c-5516d3db7607",
+                  "id": "107",
+                  "name": "Make a Support Request to the Ubuntu Community",
+                  "type": "url",
+                  "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+               }, {
+                  "date_added": "13231364528000000",
+                  "date_last_used": "0",
+                  "guid": "d1c6f941-3346-415e-b72f-c3c2f6badfff",
+                  "id": "108",
+                  "name": "Ubuntu Wiki (community-edited website)",
+                  "type": "url",
+                  "url": "http://wiki.ubuntu.com/"
+               }, {
+                  "date_added": "13231364528000000",
+                  "date_last_used": "0",
+                  "guid": "c101e18e-6cdf-413c-b9d5-7c7484576560",
+                  "id": "109",
+                  "name": "Ubuntu",
+                  "type": "url",
+                  "url": "http://www.ubuntu.com/"
+               } ],
+               "date_added": "13326512393391955",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "cb87a46e-cbb8-4c37-bc6f-97e4f67ede45",
+               "id": "100",
+               "name": "Linux/Unix",
+               "type": "folder"
+            }, {
+               "date_added": "13197540049000000",
+               "date_last_used": "0",
+               "guid": "88928155-b02c-4c16-a93b-8ed2e7c493a1",
+               "id": "110",
+               "name": "Archived Problems - Project Euler",
+               "type": "url",
+               "url": "https://projecteuler.net/archives"
+            }, {
+               "children": [ {
+                  "date_added": "13253576230000000",
+                  "date_last_used": "0",
+                  "guid": "3facb869-91ab-4261-b8dd-4e840c0534fc",
+                  "id": "112",
+                  "name": "Intro to Web Dev v2",
+                  "type": "url",
+                  "url": "https://btholt.github.io/intro-to-web-dev-v2/"
+               }, {
+                  "date_added": "13253582702000000",
+                  "date_last_used": "0",
+                  "guid": "8e337997-6131-4d42-afb3-c14c82c7c6f3",
+                  "id": "113",
+                  "name": "MDN Web Docs",
+                  "type": "url",
+                  "url": "https://developer.mozilla.org/en-US/"
+               }, {
+                  "date_added": "13253582711000000",
+                  "date_last_used": "0",
+                  "guid": "bbbc6428-5c66-478a-a910-48f49c664653",
+                  "id": "114",
+                  "name": "CSS-Tricks",
+                  "type": "url",
+                  "url": "https://css-tricks.com/"
+               }, {
+                  "date_added": "13253582934000000",
+                  "date_last_used": "0",
+                  "guid": "11b3e03c-b9d6-4583-b611-3ce9c9ee5186",
+                  "id": "115",
+                  "name": "Learn web development | MDN",
+                  "type": "url",
+                  "url": "https://developer.mozilla.org/en-US/docs/Learn"
+               }, {
+                  "date_added": "13225412602000000",
+                  "date_last_used": "0",
+                  "guid": "7a386bb8-85da-45b0-bf75-402a414f5371",
+                  "id": "116",
+                  "name": "FedVTE Login Page",
+                  "type": "url",
+                  "url": "https://fedvte.usalearning.gov/"
+               }, {
+                  "date_added": "13258357823000000",
+                  "date_last_used": "0",
+                  "guid": "b171eca2-a05b-4266-8ed4-fb17c49d9991",
+                  "id": "117",
+                  "name": "Beautiful Free Images & Pictures | Unsplash",
+                  "type": "url",
+                  "url": "https://unsplash.com/"
+               }, {
+                  "date_added": "13258358223000000",
+                  "date_last_used": "0",
+                  "guid": "9278e439-9a39-4d15-a421-2c3736f62f37",
+                  "id": "118",
+                  "name": "Paletton - The Color Scheme Designer",
+                  "type": "url",
+                  "url": "https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF"
+               }, {
+                  "date_added": "13274539965000000",
+                  "date_last_used": "0",
+                  "guid": "728825b2-af76-49a8-8e12-2aeee402263c",
+                  "id": "119",
+                  "name": "JavaScript reference - JavaScript | MDN",
+                  "type": "url",
+                  "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"
+               }, {
+                  "date_added": "13274539964000000",
+                  "date_last_used": "0",
+                  "guid": "881b3e29-9ed7-4699-8500-d03070ca1de3",
+                  "id": "120",
+                  "name": "CSS reference - CSS: Cascading Style Sheets | MDN",
+                  "type": "url",
+                  "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index"
+               }, {
+                  "date_added": "13274539961000000",
+                  "date_last_used": "0",
+                  "guid": "e9a1ffbe-112a-4ea0-a5de-e7936ac5450c",
+                  "id": "121",
+                  "name": "HTML elements reference - HTML: HyperText Markup Language | MDN",
+                  "type": "url",
+                  "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"
+               }, {
+                  "date_added": "13274543249000000",
+                  "date_last_used": "0",
+                  "guid": "a7ec7152-ff78-4886-9b02-eb0cd12d77ba",
+                  "id": "122",
+                  "name": "Skills of a successful front-end web developer | Drupal.org",
+                  "type": "url",
+                  "url": "https://web.archive.org/web/20151110193658/https://www.drupal.org/node/1245650"
+               }, {
+                  "date_added": "13274540045000000",
+                  "date_last_used": "0",
+                  "guid": "72c382fe-a71f-4378-9d0b-18d7cfdb493a",
+                  "id": "123",
+                  "name": "DevDocs API Documentation",
+                  "type": "url",
+                  "url": "https://devdocs.io/"
+               }, {
+                  "date_added": "13237961217000000",
+                  "date_last_used": "0",
+                  "guid": "7d306ce7-0309-46df-af02-9eb42973371d",
+                  "id": "124",
+                  "name": "XHTML and CSS Tutorial - 1 - Downloading a Text Editor - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=cqszz_OfAFQ&list=PLC1322B5A0180C946"
+               }, {
+                  "date_added": "13192679567000000",
+                  "date_last_used": "0",
+                  "guid": "667a7e97-d7ff-42ea-98e1-5b7557d0cf6b",
+                  "id": "125",
+                  "name": "The Modern Javascript Tutorial",
+                  "type": "url",
+                  "url": "https://javascript.info/"
+               }, {
+                  "date_added": "13279917202000000",
+                  "date_last_used": "0",
+                  "guid": "29fed4f9-cf8b-4bab-8fbb-e2386abc125a",
+                  "id": "126",
+                  "name": "Advanced CSS and Sass: Flexbox, Grid, Animations and More | Udemy",
+                  "type": "url",
+                  "url": "https://www.udemy.com/course/advanced-css-and-sass/"
+               }, {
+                  "date_added": "13279918146000000",
+                  "date_last_used": "0",
+                  "guid": "11289498-642f-4c44-8f5b-59dec61b5b33",
+                  "id": "127",
+                  "name": "Fireship - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/Fireship/videos"
+               }, {
+                  "date_added": "13279918182000000",
+                  "date_last_used": "0",
+                  "guid": "8faf1229-22b8-4ee3-ae51-c63af5636bf6",
+                  "id": "128",
+                  "name": "The Odin Project",
+                  "type": "url",
+                  "url": "https://www.theodinproject.com/"
+               }, {
+                  "date_added": "13280015098000000",
+                  "date_last_used": "0",
+                  "guid": "3320473a-9232-4ab0-a3a7-9d7f3f362d12",
+                  "id": "129",
+                  "name": "HTML Tutorial",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/html/default.asp"
+               }, {
+                  "date_added": "13280015103000000",
+                  "date_last_used": "0",
+                  "guid": "d0c635f3-48e4-4afd-a0aa-31bfc1f0f201",
+                  "id": "130",
+                  "name": "CSS Tutorial",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/css/default.asp"
+               }, {
+                  "date_added": "13280015108000000",
+                  "date_last_used": "0",
+                  "guid": "85f9ab80-84ca-4faa-a802-216aa451ce0e",
+                  "id": "131",
+                  "name": "JavaScript Tutorial",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/js/default.asp"
+               }, {
+                  "date_added": "13282460545000000",
+                  "date_last_used": "0",
+                  "guid": "d1a03dfd-4d4a-4f4b-98ac-da572ab32549",
+                  "id": "132",
+                  "name": "Browse Fonts - Google Fonts",
+                  "type": "url",
+                  "url": "https://fonts.google.com/?query=poiret"
+               }, {
+                  "date_added": "13282684182000000",
+                  "date_last_used": "0",
+                  "guid": "7b598b9b-8235-49fe-bd8e-f18251a229f6",
+                  "id": "133",
+                  "name": "A Complete Guide to Flexbox | CSS-Tricks",
+                  "type": "url",
+                  "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+               }, {
+                  "date_added": "13284316491000000",
+                  "date_last_used": "0",
+                  "guid": "83314329-7a8e-4068-a69c-cfb9384b9727",
+                  "id": "134",
+                  "name": "HTML & CSS code samples and examples to accompany book",
+                  "type": "url",
+                  "url": "https://www.htmlandcssbook.com/code-samples/"
+               }, {
+                  "date_added": "13284446571000000",
+                  "date_last_used": "0",
+                  "guid": "6a0487e5-e061-4689-bcf5-40f4fa88d8f3",
+                  "id": "135",
+                  "name": "2.4 million+ Stunning Free Images to Use Anywhere",
+                  "type": "url",
+                  "url": "https://pixabay.com/"
+               }, {
+                  "date_added": "13284446584000000",
+                  "date_last_used": "0",
+                  "guid": "f7a652d9-a272-49b1-be7b-be6c1d2700aa",
+                  "id": "136",
+                  "name": "Free Stock Photos, Royalty Free Stock Images & Copyright Free Pictures · Pexels",
+                  "type": "url",
+                  "url": "https://www.pexels.com/"
+               }, {
+                  "date_added": "13286402300000000",
+                  "date_last_used": "0",
+                  "guid": "52c6af54-e313-415d-87e8-d28f14a5bf7c",
+                  "id": "137",
+                  "name": "JavaScript Event KeyCodes",
+                  "type": "url",
+                  "url": "https://keycode.info/"
+               }, {
+                  "date_added": "13286522343000000",
+                  "date_last_used": "0",
+                  "guid": "a3f6ef6f-5407-40c3-9bd5-6c16d4365597",
+                  "id": "138",
+                  "name": "Rock, Paper and Scissor Game using Javascript - GeeksforGeeks",
+                  "type": "url",
+                  "url": "https://www.geeksforgeeks.org/rock-paper-and-scissor-game-using-javascript/"
+               }, {
+                  "date_added": "13289975311000000",
+                  "date_last_used": "0",
+                  "guid": "0ef6f190-0c58-4eb6-9148-d3dc649523e8",
+                  "id": "139",
+                  "name": "SchemeColor.com: Download, create & share beautiful color combinations",
+                  "type": "url",
+                  "url": "https://www.schemecolor.com/"
+               }, {
+                  "date_added": "13290882945000000",
+                  "date_last_used": "0",
+                  "guid": "d5c90be8-fdb6-4e32-be5a-cf3fa2d52088",
+                  "id": "140",
+                  "name": "JavaScript by Coding 7 Games",
+                  "type": "url",
+                  "url": "https://www.freecodecamp.org/news/learn-javascript-by-coding-7-games/"
+               } ],
+               "date_added": "13326512393392328",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "f9402838-6c73-47ed-9491-6353ab7784ab",
+               "id": "111",
+               "name": "WebDEV",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275519388000000",
+                  "date_last_used": "0",
+                  "guid": "2ec60eb9-d5de-4c3e-9117-889d038914b4",
+                  "id": "142",
+                  "name": "SQL SELECT DISTINCT Statement",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/sql/sql_distinct.asp"
+               }, {
+                  "date_added": "13275519394000000",
+                  "date_last_used": "0",
+                  "guid": "59e4f25b-33ea-4c6c-b85f-607f77143903",
+                  "id": "143",
+                  "name": "SQL Tryit Editor v1.6",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all"
+               }, {
+                  "date_added": "13275519403000000",
+                  "date_last_used": "0",
+                  "guid": "c536b6a4-4cf0-4a3b-b12c-82b78efcacea",
+                  "id": "144",
+                  "name": "Exercise v3.0",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/sql/exercise.asp?filename=exercise_select1"
+               }, {
+                  "date_added": "13238108937000000",
+                  "date_last_used": "0",
+                  "guid": "52bf72b4-05cc-45b2-b358-71d4fa53b32f",
+                  "id": "145",
+                  "name": "SQLCourse - Interactive Online SQL Training for Beginners",
+                  "type": "url",
+                  "url": "http://www.sqlcourse.com/"
+               } ],
+               "date_added": "13326512393393418",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "3420f7d9-6699-4113-b7d7-247840719101",
+               "id": "141",
+               "name": "SQL",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13279407691000000",
+                  "date_last_used": "0",
+                  "guid": "426bc891-df27-4b32-a8e2-33e2462b4853",
+                  "id": "147",
+                  "name": "LibGDX beginner tutorial part 1",
+                  "type": "url",
+                  "url": "https://colourtann.github.io/HelloLibgdx/"
+               }, {
+                  "date_added": "13278301323000000",
+                  "date_last_used": "0",
+                  "guid": "c88e4f13-ce1e-4f03-a897-c54c7c5f90ef",
+                  "id": "148",
+                  "name": "LibGDX Beginner Tutorial: Sprite Sheets &amp; Physics with Box2d",
+                  "type": "url",
+                  "url": "https://www.codeandweb.com/texturepacker/tutorials/libgdx-physics"
+               }, {
+                  "date_added": "13279260065000000",
+                  "date_last_used": "0",
+                  "guid": "7cf9c469-ca68-4ee9-816d-5c146e7da908",
+                  "id": "149",
+                  "name": "A Simple Game - libGDX",
+                  "type": "url",
+                  "url": "https://libgdx.com/dev/simple-game/"
+               }, {
+                  "date_added": "13278224278000000",
+                  "date_last_used": "0",
+                  "guid": "e27d34b5-60a8-41ae-bf2e-641af3ef8d54",
+                  "id": "150",
+                  "name": "Structure of game in Java - Learn Java and Python for free",
+                  "type": "url",
+                  "url": "https://code-knowledge.com/java-create-game-structure/"
+               }, {
+                  "date_added": "13278911735000000",
+                  "date_last_used": "0",
+                  "guid": "95900a7c-3779-4009-b4f3-e3542af719c6",
+                  "id": "151",
+                  "name": "Java Game Programming For Beginners: Where to Start",
+                  "type": "url",
+                  "url": "https://codegym.cc/groups/posts/182-java-game-programming-for-beginners-where-to-start"
+               }, {
+                  "date_added": "13278308392000000",
+                  "date_last_used": "0",
+                  "guid": "0ddf756c-427d-4fdd-907e-491a80339b7c",
+                  "id": "152",
+                  "name": "Create Your First Video Games with LibGDX Game Engine (It's Free and Easy to Use)",
+                  "type": "url",
+                  "url": "https://www.gamedesigning.org/engines/libgdx/"
+               }, {
+                  "date_added": "13280525658000000",
+                  "date_last_used": "0",
+                  "guid": "b420fec4-9de5-47ff-aadc-6c96796661e6",
+                  "id": "153",
+                  "name": "LibGDX Tutorial 2: Hello World – GameFromScratch.com",
+                  "type": "url",
+                  "url": "https://gamefromscratch.com/libgdx-tutorial-2-hello-world/"
+               }, {
+                  "date_added": "13280541152000000",
+                  "date_last_used": "0",
+                  "guid": "faae069c-6d1c-4051-8295-bc35318f7826",
+                  "id": "154",
+                  "name": "How to make Games: Flappy Bird - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLZm85UZQLd2TPXpUJfDEdWTSgszionbJy"
+               }, {
+                  "date_added": "13280541157000000",
+                  "date_last_used": "0",
+                  "guid": "7094439e-1963-4b3d-8985-421d26b57674",
+                  "id": "155",
+                  "name": "LibGDX - Super Mario Bros - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLZm85UZQLd2SXQzsF-a0-pPF6IWDDdrXt"
+               }, {
+                  "date_added": "13280633397000000",
+                  "date_last_used": "13332115659851983",
+                  "guid": "fe858129-4987-4dc6-bc92-f557fe2250ce",
+                  "id": "156",
+                  "name": "OpenGameArt.org",
+                  "type": "url",
+                  "url": "https://opengameart.org/"
+               }, {
+                  "date_added": "13280861368000000",
+                  "date_last_used": "0",
+                  "guid": "d243750f-e18f-4cce-b764-bbc8c21d5620",
+                  "id": "157",
+                  "name": "Make a PNG Transparent - Online PNG Maker",
+                  "type": "url",
+                  "url": "https://onlinepngtools.com/create-transparent-png"
+               }, {
+                  "date_added": "13280978167000000",
+                  "date_last_used": "0",
+                  "guid": "fc1cae40-d0f5-4f31-a1f8-9a9b327c14b4",
+                  "id": "158",
+                  "name": "Race conditions are prevented by requiring that critical regions be protected by locks.",
+                  "type": "url",
+                  "url": "https://quizlet.com/81104330/chapter-5-flash-cards/"
+               }, {
+                  "date_added": "13280016024000000",
+                  "date_last_used": "0",
+                  "guid": "84c5ce3f-bf8c-463d-9ed9-3add3d651d30",
+                  "id": "159",
+                  "name": "LibGDX - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=CN13SZpApR0&list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy&index=2"
+               } ],
+               "date_added": "13326512393393591",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "02f1acb5-069d-489d-bd72-a4b820b823ae",
+               "id": "146",
+               "name": "LibGDX",
+               "type": "folder"
+            }, {
+               "date_added": "13282116391000000",
+               "date_last_used": "0",
+               "guid": "bed9bbe5-839b-459d-afc7-f08eb938dbc1",
+               "id": "160",
+               "name": "thenewboston - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/user/thenewboston/playlists?view=1&sort=dd&shelf_id=0"
+            }, {
+               "date_added": "13282267204000000",
+               "date_last_used": "0",
+               "guid": "f25266ad-3374-476b-b678-74cb2886c7e1",
+               "id": "161",
+               "name": "Learn the Latest Tech Skills; Advance Your Career | Udacity",
+               "type": "url",
+               "url": "https://www.udacity.com/"
+            }, {
+               "date_added": "13282978645000000",
+               "date_last_used": "0",
+               "guid": "bbf2e944-f4eb-4ed7-80d0-8a08e8c89896",
+               "id": "162",
+               "name": "Tracks – JetBrains Academy — Learn programming by building your own apps",
+               "type": "url",
+               "url": "https://hyperskill.org/tracks"
+            }, {
+               "date_added": "13296623640000000",
+               "date_last_used": "0",
+               "guid": "bc5631c2-3057-43f6-ac49-8d3d03d9a314",
+               "id": "163",
+               "name": "OpenSesame - Transform Your Workforce with Online Courses",
+               "type": "url",
+               "url": "https://www.opensesame.com/"
+            }, {
+               "children": [  ],
+               "date_added": "13326512393394153",
+               "date_last_used": "0",
+               "date_modified": "13327242297343805",
+               "guid": "f655f22e-f1bd-465a-b95a-49ea3ed5dd3c",
+               "id": "164",
+               "name": "Javascript",
+               "type": "folder"
+            }, {
+               "date_added": "13298274405000000",
+               "date_last_used": "0",
+               "guid": "3e6d3795-a488-411e-b590-758a390f5be6",
+               "id": "165",
+               "name": "Half-Life SDK Programming #0: Introduction - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=kxVcwlSP9Ts"
+            }, {
+               "date_added": "13299562459000000",
+               "date_last_used": "0",
+               "guid": "2e6289a1-b08c-4c7b-a9de-0ce1b7517157",
+               "id": "166",
+               "name": "Hackaday | Fresh Hacks Every Day",
+               "type": "url",
+               "url": "https://hackaday.com/"
+            }, {
+               "date_added": "13302228870000000",
+               "date_last_used": "0",
+               "guid": "9c400eca-5ef7-4a10-a0df-f3b92caa05a7",
+               "id": "167",
+               "name": "Software Engineer Coding Bootcamp Online: Intensive Courses | Practicum",
+               "type": "url",
+               "url": "https://practicum.com/software-engineer/"
+            }, {
+               "children": [ {
+                  "date_added": "13304477033000000",
+                  "date_last_used": "0",
+                  "guid": "c7010104-3dbb-4c18-a86a-a502b31f171f",
+                  "id": "169",
+                  "name": "Mongoose v6.5.1: Getting Started",
+                  "type": "url",
+                  "url": "https://mongoosejs.com/docs/index.html"
+               }, {
+                  "date_added": "13304477072000000",
+                  "date_last_used": "0",
+                  "guid": "eff44652-3325-458c-b8e1-b1c058a7cd05",
+                  "id": "170",
+                  "name": "How To Install and Use MongoDB 4 in Linux Mint 20 - TechViewLeo",
+                  "type": "url",
+                  "url": "https://techviewleo.com/how-to-install-and-use-mongodb-in-linux-mint/"
+               }, {
+                  "date_added": "13308554652000000",
+                  "date_last_used": "0",
+                  "guid": "edfe2d00-605f-45e7-8871-3ead87ae872d",
+                  "id": "171",
+                  "name": "Node.js and Express.js - Full Course - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Oe421EPjeBE&t=178s"
+               }, {
+                  "date_added": "13308554670000000",
+                  "date_last_used": "0",
+                  "guid": "b69f3984-e292-4a2f-9a8c-4db76743626f",
+                  "id": "172",
+                  "name": "REST API Design Best Practices Handbook – How to Build a REST API with JavaScript, Node.js, and Express.js",
+                  "type": "url",
+                  "url": "https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/#prerequisites"
+               }, {
+                  "date_added": "13308554677000000",
+                  "date_last_used": "0",
+                  "guid": "1d4aba65-1d83-4c87-bf2b-09ee95612cc2",
+                  "id": "173",
+                  "name": "Search - freeCodeCamp.org",
+                  "type": "url",
+                  "url": "https://www.freecodecamp.org/news/search?query=node.js"
+               }, {
+                  "date_added": "13308720695000000",
+                  "date_last_used": "0",
+                  "guid": "ab99610c-5302-436c-b961-3d6be3a93000",
+                  "id": "174",
+                  "name": "Node Service-oriented Architecture | Codementor",
+                  "type": "url",
+                  "url": "https://www.codementor.io/@evanbechtol/node-service-oriented-architecture-12vjt9zs9i"
+               }, {
+                  "date_added": "13308721479000000",
+                  "date_last_used": "0",
+                  "guid": "d09c2308-f886-4ee1-ace5-7ac0953271de",
+                  "id": "175",
+                  "name": "REST API Design Best Practices Handbook – How to Build a REST API with JavaScript, Node.js, and Express.js",
+                  "type": "url",
+                  "url": "https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/#name-resources-in-plural"
+               }, {
+                  "date_added": "13310170496000000",
+                  "date_last_used": "0",
+                  "guid": "4e99163f-d170-4354-872a-cfaa70b434a0",
+                  "id": "176",
+                  "name": "Getting Started · express-validator",
+                  "type": "url",
+                  "url": "https://express-validator.github.io/docs/"
+               } ],
+               "date_added": "13326512393394262",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "039c3398-08fa-449d-85f5-8de60e6e31c8",
+               "id": "168",
+               "name": "Node.js",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13304992663000000",
+                  "date_last_used": "0",
+                  "guid": "aa3fd646-022d-4247-8fd5-725a10392b2d",
+                  "id": "178",
+                  "name": "Avalonia ToDo Tutorial (On Linux) •",
+                  "type": "url",
+                  "url": "https://www.nequalsonelifestyle.com/2019/05/10/avalonia-todo-tutorial/"
+               }, {
+                  "date_added": "13304992841000000",
+                  "date_last_used": "0",
+                  "guid": "1dc3b01b-a45d-454c-9e0f-7c79ed0cc381",
+                  "id": "179",
+                  "name": "ToDo List App - Avalonia",
+                  "type": "url",
+                  "url": "https://docs.avaloniaui.net/tutorials/todo-list-app"
+               }, {
+                  "date_added": "13317798164000000",
+                  "date_last_used": "0",
+                  "guid": "22bd84e2-dda3-42ce-9dbe-aa7090257497",
+                  "id": "180",
+                  "name": ".NET CLI | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/dotnet/core/tools/"
+               }, {
+                  "date_added": "13333335115281975",
+                  "date_last_used": "13335328624253517",
+                  "guid": "2eae8dd8-cbbd-4d69-ac77-1849cb8670fd",
+                  "id": "181",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Action Delegate in C#",
+                  "type": "url",
+                  "url": "https://www.tutorialsteacher.com/csharp/csharp-action-delegate"
+               }, {
+                  "date_added": "13333335144735488",
+                  "date_last_used": "0",
+                  "guid": "0a3d3dc9-e176-4348-aa9d-51f069ba7084",
+                  "id": "182",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Action\u003CT> Delegate (System) | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/dotnet/api/system.action-1?view=net-7.0"
+               }, {
+                  "date_added": "13334114629702042",
+                  "date_last_used": "0",
+                  "guid": "c39c66f7-d267-41e1-b870-6373363e660a",
+                  "id": "183",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Names of Type Members - Framework Design Guidelines | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-type-members"
+               }, {
+                  "date_added": "13335121943270173",
+                  "date_last_used": "0",
+                  "guid": "6b038371-bd24-44a3-b904-6c3defff79fb",
+                  "id": "184",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Get started with .NET MAUI XAML - .NET MAUI | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/dotnet/maui/xaml/fundamentals/get-started"
+               } ],
+               "date_added": "13326512393394559",
+               "date_last_used": "0",
+               "date_modified": "13335220780094014",
+               "guid": "d490c8f8-ee3a-46fd-9f6b-d09a525c54ac",
+               "id": "177",
+               "name": "C#-dotnet",
+               "type": "folder"
+            }, {
+               "date_added": "13308554642000000",
+               "date_last_used": "0",
+               "guid": "028cd2e1-84f1-4608-b1ff-5dde5ca66e3a",
+               "id": "186",
+               "name": "Coding Addict - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA"
+            }, {
+               "date_added": "13308721314000000",
+               "date_last_used": "0",
+               "guid": "292da7b2-f0e2-4b67-b600-ee1aa04eb8b6",
+               "id": "187",
+               "name": "SOLID: The First 5 Principles of Object Oriented Design | DigitalOcean",
+               "type": "url",
+               "url": "https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design"
+            }, {
+               "date_added": "13308721328000000",
+               "date_last_used": "0",
+               "guid": "a354be02-c3e7-4c96-ad10-2a3422d92e52",
+               "id": "188",
+               "name": "Separation of Concerns. Engineering Insights | by Talin | Machine Words | Medium",
+               "type": "url",
+               "url": "https://medium.com/machine-words/separation-of-concerns-1d735b703a60"
+            }, {
+               "date_added": "13309573867000000",
+               "date_last_used": "0",
+               "guid": "acea8116-8834-4714-8603-7ecd7b6324bf",
+               "id": "189",
+               "name": "randerson112358 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/user/randerson112358"
+            }, {
+               "date_added": "13310539433000000",
+               "date_last_used": "0",
+               "guid": "85ace7fd-9018-40b7-95df-1fd7257cd2e9",
+               "id": "190",
+               "name": "[Tutorial] How to program a game in C++ - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PL7Ej6SUky135IAAR3PFCFyiVwanauRqj3"
+            }, {
+               "date_added": "13311142609000000",
+               "date_last_used": "0",
+               "guid": "1c559a10-8968-4a4a-abce-b6c1d2cebe85",
+               "id": "191",
+               "name": "24 JavaScript Projects For Beginners In 2022 (With Source Code)",
+               "type": "url",
+               "url": "https://mikkegoes.com/javascript-projects-for-beginners/"
+            }, {
+               "date_added": "13311144710000000",
+               "date_last_used": "0",
+               "guid": "16e5a428-1c6a-443a-b133-da5705aee76e",
+               "id": "192",
+               "name": "JavaScript Algorithms and Data Structures Certification | freeCodeCamp.org",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+            }, {
+               "children": [ {
+                  "date_added": "13311220016000000",
+                  "date_last_used": "0",
+                  "guid": "3b1b4e78-83d8-4910-be33-837d908925a5",
+                  "id": "194",
+                  "name": "Install MongoDB Community Edition on Ubuntu — MongoDB Manual",
+                  "type": "url",
+                  "url": "https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/"
+               } ],
+               "date_added": "13326512393394907",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "a102e422-e398-40d1-8959-4a79f365e022",
+               "id": "193",
+               "name": "MongoDB",
+               "type": "folder"
+            }, {
+               "date_added": "13311621133000000",
+               "date_last_used": "0",
+               "guid": "500ba86b-b38d-4399-acfa-578b2bf8fb05",
+               "id": "195",
+               "name": "How to Use Fetch with async/await",
+               "type": "url",
+               "url": "https://dmitripavlutin.com/javascript-fetch-async-await/"
+            }, {
+               "date_added": "13311621141000000",
+               "date_last_used": "0",
+               "guid": "83dff1dc-a121-4b3f-886c-693edfd98577",
+               "id": "196",
+               "name": "Fetch API (JavaScript)- How to Make GET and POST Requests",
+               "type": "url",
+               "url": "https://www.topcoder.com/thrive/articles/fetch-api-javascript-how-to-make-get-and-post-requests"
+            }, {
+               "date_added": "13311621149000000",
+               "date_last_used": "0",
+               "guid": "059274fa-3d76-4ff7-83df-a284cb72d992",
+               "id": "197",
+               "name": "Using the Fetch API - Web APIs | MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch"
+            }, {
+               "date_added": "13313217325000000",
+               "date_last_used": "0",
+               "guid": "3ce2a36c-802f-47cc-9605-8ab089efb08e",
+               "id": "198",
+               "name": "Computer Stuff They Didn't Teach You - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr"
+            }, {
+               "date_added": "13313486064000000",
+               "date_last_used": "0",
+               "guid": "81167d5f-facb-452c-8373-717882541912",
+               "id": "199",
+               "name": "Lazy Foo' Productions - Beginning Game Programming v2.0",
+               "type": "url",
+               "url": "https://lazyfoo.net/tutorials/SDL/index.php"
+            }, {
+               "date_added": "13313565905000000",
+               "date_last_used": "0",
+               "guid": "3f62752e-e792-4dcb-a2d3-2b3db8f51405",
+               "id": "200",
+               "name": "Makefile Tutorial By Example",
+               "type": "url",
+               "url": "https://makefiletutorial.com/"
+            }, {
+               "date_added": "13313828751000000",
+               "date_last_used": "0",
+               "guid": "033fe51d-aaaa-455a-b2d6-12ed91c6881b",
+               "id": "201",
+               "name": "javidx9 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/@javidx9"
+            }, {
+               "date_added": "13313828760000000",
+               "date_last_used": "0",
+               "guid": "ef47a3eb-730b-4aab-8e76-00f4d4a165b8",
+               "id": "202",
+               "name": "QuantitativeBytes - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/@QuantitativeBytes"
+            }, {
+               "date_added": "13314648440000000",
+               "date_last_used": "0",
+               "guid": "0750d61d-e00a-43ff-bcbf-4fd6b097e70a",
+               "id": "203",
+               "name": "Eric O Meehan - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/@EricOMeehan"
+            }, {
+               "date_added": "13314650380000000",
+               "date_last_used": "0",
+               "guid": "fe76ea8f-a69d-44f7-be53-aac3c9343a1c",
+               "id": "204",
+               "name": "Guided Hacking - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/@GuidedHacking/videos"
+            }, {
+               "date_added": "13315102161000000",
+               "date_last_used": "0",
+               "guid": "d670dbca-1340-43cd-956f-afcc5462dc71",
+               "id": "205",
+               "name": "Will Usher",
+               "type": "url",
+               "url": "https://www.willusher.io/"
+            }, {
+               "date_added": "13316980448000000",
+               "date_last_used": "0",
+               "guid": "cd7c37b5-c607-4b50-acae-c8acb467a314",
+               "id": "206",
+               "name": "Learn C++ – Skill up with our free tutorials",
+               "type": "url",
+               "url": "https://www.learncpp.com/"
+            }, {
+               "date_added": "13317614607000000",
+               "date_last_used": "0",
+               "guid": "0b5fa739-b744-454b-b18a-73e09c214f1b",
+               "id": "207",
+               "name": "What Is the Factory Design Pattern?",
+               "type": "url",
+               "url": "https://www.makeuseof.com/what-is-factory-design-pattern-in-java/"
+            }, {
+               "date_added": "13322811527000000",
+               "date_last_used": "0",
+               "guid": "68a22c90-5607-4093-887c-9f80494930d8",
+               "id": "208",
+               "name": "Austin Morlan",
+               "type": "url",
+               "url": "https://austinmorlan.com/"
+            }, {
+               "date_added": "13323042436000000",
+               "date_last_used": "0",
+               "guid": "465dbcf6-2794-43e0-828d-cf8503524ee9",
+               "id": "209",
+               "name": "860+ Free Online Programming & Computer Science Courses You Can Start This New Year",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/"
+            }, {
+               "date_added": "13325137909000000",
+               "date_last_used": "0",
+               "guid": "01f949e0-2024-4ffe-a2e1-b1f4ed5c5806",
+               "id": "210",
+               "name": "11.4: Chrome Extensions: Background Scripts - Programming with Text - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ew9ut7ixIlI"
+            }, {
+               "date_added": "13325315468000000",
+               "date_last_used": "0",
+               "guid": "433f6a8a-87df-4ba3-829a-9fa1da56a2a4",
+               "id": "211",
+               "name": "Road to Vostok - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/@roadtovostok"
+            }, {
+               "date_added": "13325640331000000",
+               "date_last_used": "0",
+               "guid": "56a7ae08-b4ab-4292-b92e-c454e083642b",
+               "id": "212",
+               "name": "A collection of free books from Springer",
+               "type": "url",
+               "url": "https://hnarayanan.github.io/springer-books/#Computer%20Science"
+            }, {
+               "date_added": "13325643984000000",
+               "date_last_used": "0",
+               "guid": "cd0edb71-eee3-4634-8285-3a2f9c59ce49",
+               "id": "213",
+               "name": "Physically-Based Clock Rendering | Blog | AniCator.Com",
+               "type": "url",
+               "url": "https://www.anicator.com/blog/physically-based-clock-rendering/"
+            }, {
+               "date_added": "13325737638000000",
+               "date_last_used": "0",
+               "guid": "71834368-b156-406e-a3dd-6736df054070",
+               "id": "214",
+               "name": "Personal Projects | AniCator.Com",
+               "type": "url",
+               "url": "https://www.anicator.com/projects/"
+            }, {
+               "date_added": "13327242297343805",
+               "date_last_used": "0",
+               "guid": "d570e865-fd00-46f3-8e22-2977f185202c",
+               "id": "215",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Rabia Williams",
+               "type": "url",
+               "url": "https://rabiawilliams.com/"
+            }, {
+               "date_added": "13327467423059514",
+               "date_last_used": "0",
+               "guid": "2a9eb24d-f2e3-4beb-9152-09139808b403",
+               "id": "216",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Snake Game in Java (OOP design concepts)",
+               "type": "url",
+               "url": "https://iq.opengenus.org/snake-game-java/"
+            }, {
+               "date_added": "13327470133435184",
+               "date_last_used": "13335328593455519",
+               "guid": "4d886be2-e2d0-4ee2-be7e-886f577409e5",
+               "id": "217",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GameDev.tv Courses - Learn to Code Games -Blender, Unreal, C#, C++",
+               "type": "url",
+               "url": "https://www.gamedev.tv/"
+            }, {
+               "date_added": "13329630895019427",
+               "date_last_used": "0",
+               "guid": "c2b3405f-c787-4f31-a2da-e9fbb80afa10",
+               "id": "218",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "SDL2/Tutorials - SDL Wiki",
+               "type": "url",
+               "url": "https://wiki.libsdl.org/SDL2/Tutorials"
+            }, {
+               "date_added": "13329632632069058",
+               "date_last_used": "13330151122201074",
+               "guid": "d541eb96-4ab5-42d1-b8ba-4b899baa59d9",
+               "id": "219",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How To Make A Game In C++ & SDL2 From Scratch! - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx"
+            }, {
+               "date_added": "13330060007608155",
+               "date_last_used": "0",
+               "guid": "19342c3d-e6e0-492f-94a9-b9d3b3e99c3a",
+               "id": "220",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Images to Sprite Sheet Generator",
+               "type": "url",
+               "url": "https://codeshack.io/images-sprite-sheet-generator/"
+            }, {
+               "children": [ {
+                  "date_added": "13333335061208496",
+                  "date_last_used": "0",
+                  "guid": "146382e7-4ef7-44f4-a0d2-a855c2c81a69",
+                  "id": "222",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "How to add a \"Click Event\" to a class? in C# - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/40692296/how-to-add-a-click-event-to-a-class-in-c-sharp"
+               }, {
+                  "date_added": "13333335083022655",
+                  "date_last_used": "13334027619859780",
+                  "guid": "244c8294-3241-425f-b63d-2e87b7d3c642",
+                  "id": "223",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "c# - XNA - Mouse.Left Button gets executed more than once - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/28533452/xna-mouse-left-button-gets-executed-more-than-once"
+               }, {
+                  "date_added": "13333335108216594",
+                  "date_last_used": "13334027626014068",
+                  "guid": "b5f47d83-6cd3-4c1c-bae2-ae89bf7d42dc",
+                  "id": "224",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "C# Monogame - handling mouse - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/75449753/c-sharp-monogame-handling-mouse"
+               } ],
+               "date_added": "13333335074905469",
+               "date_last_used": "0",
+               "date_modified": "13333335115281975",
+               "guid": "039b3451-9c36-48e7-8730-e00397735579",
+               "id": "221",
+               "name": "monogame",
+               "type": "folder"
+            }, {
+               "date_added": "13335424392366481",
+               "date_last_used": "0",
+               "guid": "aba871a3-daa6-4552-baba-26feff9ab336",
+               "id": "332",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "bookmark_codec.cc - chromium/chromium - Git at Google",
+               "type": "url",
+               "url": "https://chromium.googlesource.com/chromium/chromium/+/master/chrome/browser/bookmarks/bookmark_codec.cc"
+            }, {
+               "date_added": "13336194955646769",
+               "date_last_used": "0",
+               "guid": "ea7c61b9-d9cb-43e9-8022-9ccb55faaa3d",
+               "id": "334",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "24 Free Public APIs for Developers & Free Alternatives List - August, 2023 | RapidAPI",
+               "type": "url",
+               "url": "https://rapidapi.com/collection/list-of-free-apis"
+            }, {
+               "date_added": "13336194960290460",
+               "date_last_used": "0",
+               "guid": "6db589f6-e558-49b6-9fa0-3751442dd231",
+               "id": "335",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GitHub - public-apis/public-apis: A collective list of free APIs",
+               "type": "url",
+               "url": "https://github.com/public-apis/public-apis#video"
+            }, {
+               "date_added": "13336197523030788",
+               "date_last_used": "0",
+               "guid": "2253cac5-fb52-4d71-aef0-bd4ed91bbdfd",
+               "id": "336",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "🌦️ Docs | Open-Meteo.com",
+               "type": "url",
+               "url": "https://open-meteo.com/en/docs#current_weather=true&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timezone=America%2FNew_York&past_days=5"
+            }, {
+               "date_added": "13336283270818248",
+               "date_last_used": "0",
+               "guid": "2fa8f0a5-ff5a-4d50-9bc2-9bd001e3cdce",
+               "id": "338",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "06 - Design Weather Page - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=5UscEcQoOuY"
+            } ],
+            "date_added": "13326512393390161",
+            "date_last_used": "0",
+            "date_modified": "13336283270818248",
+            "guid": "fad90a03-f60b-4298-b8f8-22031824793b",
+            "id": "62",
+            "name": "Programming",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13257555425000000",
+               "date_last_used": "0",
+               "guid": "8164543b-290d-4507-85c1-3d5ca6f48560",
+               "id": "226",
+               "name": "Freedom Mortgage",
+               "type": "url",
+               "url": "https://www.freedommortgage.com/"
+            }, {
+               "date_added": "13257555447000000",
+               "date_last_used": "0",
+               "guid": "981ae712-6541-405d-980d-0d033e5ad9f5",
+               "id": "227",
+               "name": "HRSD | HRSD.com",
+               "type": "url",
+               "url": "https://www.hrsd.com/"
+            }, {
+               "date_added": "13257555524000000",
+               "date_last_used": "0",
+               "guid": "797f5245-4c96-467f-af8d-39e0510c8c26",
+               "id": "228",
+               "name": "Virginia Natural Gas :: Login",
+               "type": "url",
+               "url": "https://csp.aglr.com/MyAccount/User/Login"
+            }, {
+               "date_added": "13257555555000000",
+               "date_last_used": "13334905208553406",
+               "guid": "20128cc4-ab3b-4d8f-b331-78d9f1a329db",
+               "id": "229",
+               "name": "Dominion Energy",
+               "type": "url",
+               "url": "https://mydom.dominionenergy.com/siteminderagent/forms/login.fcc?TYPE=33554433&REALMOID=06-b1426164-283c-487c-b4ad-645d5f3e03af&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=FTym4CzlYxlWQmppoRodMtOB72IsaekMnbsUs4TpBqmjxyc89Akr5Hrundmzou72&TARGET=-SM-https%3a%2f%2fmydom%2edominionenergy%2ecom%2f"
+            }, {
+               "date_added": "13257555568000000",
+               "date_last_used": "13336702261905199",
+               "guid": "aca79272-174d-4b35-9e8f-fba71a52db28",
+               "id": "230",
+               "name": "Cox",
+               "type": "url",
+               "url": "https://www.cox.com/content/dam/cox/okta/signin.html?onsuccess=https%3A%2F%2Fwww.cox.com%2Fwebapi%2Fcdncache%2Fcookieset%3Fresource%3Dhttps%3A%2F%2Fwww.cox.com%2Fresaccount%2Fhome.cox"
+            }, {
+               "date_added": "13258592250000000",
+               "date_last_used": "0",
+               "guid": "21e6f76d-1039-4efe-8fcf-4827311bd751",
+               "id": "231",
+               "name": "HOA Payment",
+               "type": "url",
+               "url": "https://www.hoabankservices.com/OnlinePayments/Payment.aspx"
+            } ],
+            "date_added": "13326512393395603",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "71add117-e924-4af1-93e0-a74d4c1f40b3",
+            "id": "225",
+            "name": "Bills",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13270515111000000",
+               "date_last_used": "0",
+               "guid": "1c89f3bd-8c2c-4046-98d6-e8baa5ec60b2",
+               "id": "233",
+               "name": "Torrents - IPTorrents - #1 Private Tracker",
+               "type": "url",
+               "url": "https://iptorrents.us/t"
+            }, {
+               "date_added": "13265069069000000",
+               "date_last_used": "0",
+               "guid": "89c02845-3daf-43f5-97ad-2d6c41e2c32f",
+               "id": "234",
+               "name": "Torrent Search Engine | 1337x.to",
+               "type": "url",
+               "url": "https://1337x.to/"
+            }, {
+               "date_added": "13267585426000000",
+               "date_last_used": "0",
+               "guid": "37b5bbf9-af72-4e72-8033-f7452cebbd46",
+               "id": "235",
+               "name": "RARBG Rarbg Index page",
+               "type": "url",
+               "url": "http://rarbg.to/index80.php"
+            }, {
+               "date_added": "13270515023000000",
+               "date_last_used": "0",
+               "guid": "0650c68d-5333-4949-af10-cf9adbd9751f",
+               "id": "236",
+               "name": "Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site",
+               "type": "url",
+               "url": "https://thepiratebay.org/index.html"
+            }, {
+               "date_added": "13159053731000000",
+               "date_last_used": "0",
+               "guid": "07f00cdf-bb92-4259-a976-f83561cc95cf",
+               "id": "237",
+               "name": "Start | Zooqle: Verified torrents",
+               "type": "url",
+               "url": "https://zooqle.com/"
+            }, {
+               "date_added": "13279762158000000",
+               "date_last_used": "0",
+               "guid": "cae7a832-7832-4420-a7ea-c46184e0554c",
+               "id": "238",
+               "name": "trackerslist/trackers_all.txt at master · ngosang/trackerslist · GitHub",
+               "type": "url",
+               "url": "https://github.com/ngosang/trackerslist/blob/master/trackers_all.txt"
+            }, {
+               "date_added": "13288490616000000",
+               "date_last_used": "0",
+               "guid": "f09cfa56-b2ca-438b-82bc-b9b6dcb05928",
+               "id": "239",
+               "name": "IPTorrents",
+               "type": "url",
+               "url": "https://iptorrents.com/login.php"
+            }, {
+               "date_added": "13292392662000000",
+               "date_last_used": "0",
+               "guid": "addc45e1-ff65-4e26-a6c8-c6801526d989",
+               "id": "240",
+               "name": "[Updated] Best Torrent Trackers list for 2022 - Startup Opinions",
+               "type": "url",
+               "url": "https://www.startupopinions.com/torrent-tracker/"
+            }, {
+               "date_added": "13292393486000000",
+               "date_last_used": "0",
+               "guid": "c3b3e2cc-f556-4acd-be9c-1de394c529a9",
+               "id": "241",
+               "name": "Top torrents - Demonoid",
+               "type": "url",
+               "url": "https://fora.demonoid.is/top_torrents.php"
+            }, {
+               "date_added": "13310875154000000",
+               "date_last_used": "0",
+               "guid": "6ec0c8d5-bb10-45e6-ba3f-88f9d23807a2",
+               "id": "242",
+               "name": "Torrent Search Engine - BT4G",
+               "type": "url",
+               "url": "https://bt4g.org/#"
+            }, {
+               "date_added": "13314497060000000",
+               "date_last_used": "0",
+               "guid": "6b58b75e-dc91-4cdc-8e1c-f38f3c5daec0",
+               "id": "243",
+               "name": "qBittorrent v4.4.3 Web UI",
+               "type": "url",
+               "url": "http://192.168.0.12:8080/"
+            }, {
+               "date_added": "13316660099000000",
+               "date_last_used": "0",
+               "guid": "ea2bfe84-1910-4861-8aa0-8c7100089894",
+               "id": "244",
+               "name": "Login :: TorrentLeech.org",
+               "type": "url",
+               "url": "https://www.torrentleech.org/"
+            }, {
+               "date_added": "13318917131000000",
+               "date_last_used": "0",
+               "guid": "23068d8a-106e-4461-a840-34a1cbb06e02",
+               "id": "245",
+               "name": "RealDebrid",
+               "type": "url",
+               "url": "https://www.reddit.com/r/RealDebrid/"
+            }, {
+               "date_added": "13319342036000000",
+               "date_last_used": "0",
+               "guid": "2bb6d792-09e3-481d-91f6-53370c50ea56",
+               "id": "246",
+               "name": "BTDigg DHT Search Engine: Free Search Engine For Free Torrent Content",
+               "type": "url",
+               "url": "https://btdig.com/"
+            }, {
+               "date_added": "13319342695000000",
+               "date_last_used": "0",
+               "guid": "68b6dbe3-3ad0-454e-9d44-fe74c68f24ec",
+               "id": "247",
+               "name": "GitHub - XIU2/TrackersListCollection: 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！",
+               "type": "url",
+               "url": "https://github.com/XIU2/TrackersListCollection"
+            }, {
+               "date_added": "13319437926000000",
+               "date_last_used": "0",
+               "guid": "760c38c3-9fd9-4479-aa8e-a7bda15507f7",
+               "id": "248",
+               "name": "Ebookee: Free Download eBooks Search Engine!",
+               "type": "url",
+               "url": "https://ebookee.com/"
+            }, {
+               "date_added": "13319438291000000",
+               "date_last_used": "0",
+               "guid": "3485c800-6de8-4a82-a7b0-c33241b8d6b0",
+               "id": "249",
+               "name": "Piracy: ꜱᴀɪʟ ᴛʜᴇ ʜɪɢʜ ꜱᴇᴀꜱ",
+               "type": "url",
+               "url": "https://www.reddit.com/r/Piracy/"
+            }, {
+               "date_added": "13319439272000000",
+               "date_last_used": "0",
+               "guid": "c4baec95-80d9-49e5-9c24-4b1202f194ce",
+               "id": "250",
+               "name": "SoftArchive – Unlimited Download Source",
+               "type": "url",
+               "url": "https://sanet.st/full/"
+            }, {
+               "date_added": "13319440084000000",
+               "date_last_used": "0",
+               "guid": "1fe61487-b24b-4504-b81f-c2b3e15ce715",
+               "id": "251",
+               "name": "GitHub - itsToggle/plex_debrid: Plex torrent streaming through Debrid Services",
+               "type": "url",
+               "url": "https://github.com/itsToggle/plex_debrid"
+            }, {
+               "date_added": "13319440257000000",
+               "date_last_used": "0",
+               "guid": "f3172b34-9705-4bcd-8a70-f9256a8c4107",
+               "id": "252",
+               "name": "RealDebrid",
+               "type": "url",
+               "url": "https://www.reddit.com/r/RealDebrid/top/?t=all"
+            }, {
+               "date_added": "13319440262000000",
+               "date_last_used": "0",
+               "guid": "f4f74dbb-c090-46a1-b60f-be2231f4766d",
+               "id": "253",
+               "name": "Open Directories",
+               "type": "url",
+               "url": "https://www.reddit.com/r/opendirectories/"
+            }, {
+               "date_added": "13325475323000000",
+               "date_last_used": "0",
+               "guid": "92a8515e-689b-49b8-9d11-4c349c064607",
+               "id": "254",
+               "name": "Get link 4share, get link fshare, 1fichier, rapidgator, katfile ... premium link generator",
+               "type": "url",
+               "url": "https://www.newscon.net/d1/"
+            }, {
+               "date_added": "13325576098000000",
+               "date_last_used": "0",
+               "guid": "645c74c0-e40d-4a09-9e0f-c61728d6a4bd",
+               "id": "255",
+               "name": "redacted Interview Prep - Welcome",
+               "type": "url",
+               "url": "https://interviewfor.red/en/index.html"
+            }, {
+               "date_added": "13325576101000000",
+               "date_last_used": "0",
+               "guid": "243071de-4ed7-4b67-9527-c4420c36fe49",
+               "id": "256",
+               "name": "BroadcasTheNet",
+               "type": "url",
+               "url": "https://broadcasthe.net/"
+            }, {
+               "date_added": "13325576103000000",
+               "date_last_used": "0",
+               "guid": "b6a6b479-3591-4595-b13e-7837c43e1836",
+               "id": "257",
+               "name": "Login :: PassThePopcorn",
+               "type": "url",
+               "url": "https://passthepopcorn.me/"
+            } ],
+            "date_added": "13326512393395942",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "0ccfc4b9-d79a-4e0a-9dff-083b542f2d0a",
+            "id": "232",
+            "name": "DL",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13161513894000000",
+               "date_last_used": "0",
+               "guid": "3885a819-0149-4c74-9bdd-e0652b99f920",
+               "id": "259",
+               "name": "btcrecover/TUTORIAL.md at master · gurnec/btcrecover · GitHub",
+               "type": "url",
+               "url": "https://github.com/gurnec/btcrecover/blob/master/TUTORIAL.md#quick-start"
+            }, {
+               "date_added": "13257480492000000",
+               "date_last_used": "0",
+               "guid": "7c78a3fb-498a-4d45-94dc-0bb979697424",
+               "id": "260",
+               "name": "Fox News Live Stream (USA) [HD] - Watch Fox News Channel Free - USNewsON",
+               "type": "url",
+               "url": "https://usnewson.com/watch/fox-news-live-stream-usa"
+            }, {
+               "date_added": "13257493113000000",
+               "date_last_used": "0",
+               "guid": "15163d18-a117-43df-b8be-32ac07d723d0",
+               "id": "261",
+               "name": "YouTube Downloader - Download YouTube videos in MP3, MP4, 3GP | Y2mate.com",
+               "type": "url",
+               "url": "https://www.y2mate.com/en69"
+            }, {
+               "children": [ {
+                  "date_added": "13255748001000000",
+                  "date_last_used": "0",
+                  "guid": "a4fe46e4-0adb-4405-b31a-d2853f9f522c",
+                  "id": "263",
+                  "name": "Home | Donald J. Trump for President",
+                  "type": "url",
+                  "url": "https://www.donaldjtrump.com/"
+               }, {
+                  "date_added": "13255748018000000",
+                  "date_last_used": "0",
+                  "guid": "c8b911a6-749f-4d54-ab77-f84dcd8fa4a8",
+                  "id": "264",
+                  "name": "TTA - Search",
+                  "type": "url",
+                  "url": "https://www.thetrumparchive.com/"
+               }, {
+                  "date_added": "13255748038000000",
+                  "date_last_used": "0",
+                  "guid": "7d723bcb-620b-4d92-a8e3-45cd4fd68a57",
+                  "id": "265",
+                  "name": "Promises Kept | President Donald J. Trump's Accomplishments",
+                  "type": "url",
+                  "url": "https://www.promiseskept.com/"
+               }, {
+                  "date_added": "13255748045000000",
+                  "date_last_used": "0",
+                  "guid": "0bb40f09-f4dd-4b40-8ffc-aeea6387a3b3",
+                  "id": "266",
+                  "name": "President Donald J. Trump’s accomplishment list archive. | MAGAPILL",
+                  "type": "url",
+                  "url": "https://www.magapill.com/"
+               }, {
+                  "date_added": "13278607671000000",
+                  "date_last_used": "0",
+                  "guid": "ad755e45-3341-4234-88b8-49e80b2380c7",
+                  "id": "267",
+                  "name": "Home | Donald J. Trump Presidential Library",
+                  "type": "url",
+                  "url": "https://www.trumplibrary.gov/"
+               }, {
+                  "date_added": "13278559396000000",
+                  "date_last_used": "0",
+                  "guid": "3ea94160-c090-4509-8b49-0abbff6ee0ea",
+                  "id": "268",
+                  "name": "Cozy.tv",
+                  "type": "url",
+                  "url": "https://cozy.tv/nick"
+               } ],
+               "date_added": "13326512393400269",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "35ad4805-a4d8-4a9b-b600-0de544b7143c",
+               "id": "262",
+               "name": "DJT",
+               "type": "folder"
+            }, {
+               "date_added": "13263864048000000",
+               "date_last_used": "0",
+               "guid": "bf60b6f7-6a6a-4d69-8179-a31bc17cd0df",
+               "id": "269",
+               "name": "Army Navy Outdoors Survival Military Tactical Gear and Clothing",
+               "type": "url",
+               "url": "https://armynavyoutdoors.com/"
+            }, {
+               "date_added": "13264028645000000",
+               "date_last_used": "0",
+               "guid": "72485442-ae1a-4f8d-99d0-d39fbde3b0ca",
+               "id": "270",
+               "name": "Gennaro Contaldo - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCU-9aBTeP3pJVutFppAr4Ng"
+            }, {
+               "date_added": "13264385333000000",
+               "date_last_used": "0",
+               "guid": "233715bd-dd80-4843-be96-f30f804ae9ab",
+               "id": "271",
+               "name": "Plex",
+               "type": "url",
+               "url": "https://app.plex.tv/auth/#!?clientID=izphzufv1uksa69rl3doojex&context%5Bdevice%5D%5Bproduct%5D=Plex%20Web&context%5Bdevice%5D%5Bversion%5D=4.54.5&context%5Bdevice%5D%5Bplatform%5D=Chrome&context%5Bdevice%5D%5BplatformVersion%5D=90.0&context%5Bdevice%5D%5Bdevice%5D=Windows&context%5Bdevice%5D%5Bmodel%5D=bundled&context%5Bdevice%5D%5BscreenResolution%5D=1920x937%2C1920x1080&context%5Bdevice%5D%5Blayout%5D=desktop&context%5Bdevice%5D%5Bprotocol%5D=http-loopback&forwardUrl=http%3A%2F%2F127.0.0.1%3A32400%2Fweb%2Findex.html%23%21%2Flogin%3FpinID%3D1542263607&code=mla445bc05fg1cox59o9fcplk&language=en"
+            }, {
+               "date_added": "13271101845000000",
+               "date_last_used": "0",
+               "guid": "471a711d-9e47-4904-9a7e-69e74d6398e4",
+               "id": "272",
+               "name": "Jimthecarguy - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCCNXRyJ3ezEhkW-bAawG1Ew"
+            }, {
+               "date_added": "13313135108000000",
+               "date_last_used": "0",
+               "guid": "be27b67c-0ee1-409d-a33d-2fd39facb8e4",
+               "id": "273",
+               "name": "Tucker Carlson Fan",
+               "type": "url",
+               "url": "https://www.bitchute.com/channel/jfqZoFVLDiE9/"
+            }, {
+               "date_added": "13314413959000000",
+               "date_last_used": "0",
+               "guid": "5ab34f97-44d9-4a47-8f5d-4498c78f5dbd",
+               "id": "274",
+               "name": "Cozy.tv",
+               "type": "url",
+               "url": "https://cozy.tv/"
+            }, {
+               "date_added": "13315869612000000",
+               "date_last_used": "0",
+               "guid": "6653453c-d0b0-4b02-a7aa-5f39a1b91edd",
+               "id": "275",
+               "name": "Premium Vaping Shop & Vape Gear Online Store | Flawless Vape Shop",
+               "type": "url",
+               "url": "https://www.flawlessvapeshop.com/"
+            } ],
+            "date_added": "13326512393399956",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "2cf013df-2865-407b-8528-502f1d3248bb",
+            "id": "258",
+            "name": "Misc",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13302493907000000",
+               "date_last_used": "0",
+               "guid": "c6422b91-849a-4fe4-806a-39cf4e679e5c",
+               "id": "277",
+               "name": "The Official Honda Site. Purchase Honda and Acura Genuine Accessories and Parts directly from your local dealer on the eStore.",
+               "type": "url",
+               "url": "https://estore.honda.com/"
+            }, {
+               "date_added": "13302493921000000",
+               "date_last_used": "0",
+               "guid": "fdb182ae-95ce-408f-866c-d80b9b90e5f4",
+               "id": "278",
+               "name": "Free Vehicle Identification Number (VIN) Decoder & Lookup",
+               "type": "url",
+               "url": "https://driving-tests.org/vin-decoder/"
+            }, {
+               "date_added": "13335220780094014",
+               "date_last_used": "0",
+               "guid": "b2fba1ba-add3-493b-9a78-8a635c789917",
+               "id": "279",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How to Stop Car Clunks (Sway Bar Bushing and Links) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=xP-oP_7zFkk"
+            }, {
+               "date_added": "13335220794248848",
+               "date_last_used": "0",
+               "guid": "62bca824-7d49-41ec-8b10-9f184b76ad84",
+               "id": "280",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How to Stop Steering Wheel from Shaking (Lower Control Arm) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=R62cw--wl1E"
+            }, {
+               "date_added": "13335221322082689",
+               "date_last_used": "0",
+               "guid": "185bad84-4213-4f94-8389-269c4ac2336e",
+               "id": "281",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "This Means Your Struts are Going to Fail - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=4IsLDChrGhA"
+            } ],
+            "date_added": "13326512393400821",
+            "date_last_used": "0",
+            "date_modified": "13335424392366481",
+            "guid": "949ccc20-57f0-484c-82d8-9bcf9f7f864e",
+            "id": "276",
+            "name": "Cars",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13303237579000000",
+               "date_last_used": "0",
+               "guid": "8c8c67cb-fb73-4123-bb9b-c30c19e2c2fe",
+               "id": "283",
+               "name": "PSX ROMs GBA ROMs NDS ROMs SNES ROMs - Rom Hustler",
+               "type": "url",
+               "url": "https://romhustler.org/"
+            }, {
+               "date_added": "13303238845000000",
+               "date_last_used": "0",
+               "guid": "b801af49-c646-4084-a879-c09a00a2f914",
+               "id": "284",
+               "name": "Vimm's Lair: Genesis Vault",
+               "type": "url",
+               "url": "https://vimm.net/vault/Genesis"
+            }, {
+               "date_added": "13303244917000000",
+               "date_last_used": "0",
+               "guid": "d9a9bbe3-2ef3-48a4-877f-07967511d49c",
+               "id": "285",
+               "name": "/r/Roms Megathread",
+               "type": "url",
+               "url": "https://r-roms.github.io/"
+            }, {
+               "date_added": "13310421964000000",
+               "date_last_used": "0",
+               "guid": "605c3646-9b75-4f2d-a614-bb6836a7c93d",
+               "id": "286",
+               "name": "Wabbajack",
+               "type": "url",
+               "url": "https://www.wabbajack.org/"
+            }, {
+               "date_added": "13310421974000000",
+               "date_last_used": "0",
+               "guid": "2cb02a61-732a-47ed-a944-5dab7d39f576",
+               "id": "287",
+               "name": "Heartland | Wabbajack",
+               "type": "url",
+               "url": "https://www.wabbajack.org/modlist/wj-featured/heartland"
+            }, {
+               "date_added": "13310421956000000",
+               "date_last_used": "0",
+               "guid": "dc5ffc62-c2ef-4cad-a935-6a6f454e3a33",
+               "id": "288",
+               "name": "GitHub - wabbajack-tools/wabbajack: An automated Modlist installer for various games.",
+               "type": "url",
+               "url": "https://github.com/wabbajack-tools/wabbajack"
+            } ],
+            "date_added": "13326512393401030",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "a9037bab-a678-41f9-bac6-e538e6dd0d50",
+            "id": "282",
+            "name": "Games",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13313811876000000",
+               "date_last_used": "0",
+               "guid": "9548df24-5970-46d4-b31d-a6fb7ee494d2",
+               "id": "290",
+               "name": "Beer Batter Hush Puppies Recipe",
+               "type": "url",
+               "url": "https://www.thespruceeats.com/beer-batter-hush-puppies-3056899"
+            }, {
+               "date_added": "13304098844000000",
+               "date_last_used": "0",
+               "guid": "8e8a9524-75ad-4eb8-ae95-7b66e272267a",
+               "id": "291",
+               "name": "Baked Chicken Leg Quarters (Crispy, Juicy, & Easy!) | Wholesome Yum",
+               "type": "url",
+               "url": "https://www.wholesomeyum.com/baked-chicken-leg-quarters/"
+            }, {
+               "children": [ {
+                  "date_added": "13281425829000000",
+                  "date_last_used": "0",
+                  "guid": "017656e2-de33-4c91-a223-54b84776ae3e",
+                  "id": "293",
+                  "name": "Best Keto Bread - #1 Keto Bread Recipe (Video) - Diet Doctor",
+                  "type": "url",
+                  "url": "https://www.dietdoctor.com/recipes/the-keto-bread"
+               }, {
+                  "date_added": "13281425987000000",
+                  "date_last_used": "0",
+                  "guid": "cf9661f5-53f9-4c25-8874-4f06365a6885",
+                  "id": "294",
+                  "name": "Keto Rolls- Just 4 ingredients! - The Big Man's World ®",
+                  "type": "url",
+                  "url": "https://thebigmansworld.com/keto-rolls/"
+               }, {
+                  "date_added": "13281426000000000",
+                  "date_last_used": "0",
+                  "guid": "882a9263-9c4a-45e0-a92e-8881419d4457",
+                  "id": "295",
+                  "name": "Keto Bread- Just 2 grams carbs! - The Big Man's World ®",
+                  "type": "url",
+                  "url": "https://thebigmansworld.com/keto-almond-flour-bread/"
+               }, {
+                  "date_added": "13281746913000000",
+                  "date_last_used": "0",
+                  "guid": "43f74d2c-391a-4f2b-9a81-fdd7c97705b9",
+                  "id": "296",
+                  "name": "Keto Bread Recipe - How to Make 90 Second Keto Bread",
+                  "type": "url",
+                  "url": "https://www.delish.com/cooking/recipe-ideas/a22074652/keto-bread-recipe/"
+               }, {
+                  "date_added": "13281747010000000",
+                  "date_last_used": "0",
+                  "guid": "ea365a6f-3608-4d64-acf0-7b57d4321a1a",
+                  "id": "297",
+                  "name": "Keto Naan Bread with Garlic Butter - Recipe –- Diet Doctor",
+                  "type": "url",
+                  "url": "https://www.dietdoctor.com/recipes/keto-naan-bread-with-melted-garlic-butter"
+               }, {
+                  "date_added": "13282017322000000",
+                  "date_last_used": "0",
+                  "guid": "29ac57cb-769b-45da-a984-6eb7fb7d58e4",
+                  "id": "298",
+                  "name": "The Best Keto Bread Recipe | Just 5 Simple Ingredients",
+                  "type": "url",
+                  "url": "https://www.ketoconnect.net/best-keto-bread/"
+               }, {
+                  "date_added": "13303274380000000",
+                  "date_last_used": "0",
+                  "guid": "c595be38-dfde-4d00-9cb3-6caa8b643d9e",
+                  "id": "299",
+                  "name": "The BEST Keto 90 Second Bread (1 Net Carb!) | Wholesome Yum",
+                  "type": "url",
+                  "url": "https://www.wholesomeyum.com/keto-90-second-bread-recipe/"
+               }, {
+                  "date_added": "13303274912000000",
+                  "date_last_used": "0",
+                  "guid": "ec6abae2-9c2c-49ed-804c-a09e2372e35e",
+                  "id": "300",
+                  "name": "(Not-Eggy!) Gluten Free & Keto Bread With Yeast | gnom-gnom",
+                  "type": "url",
+                  "url": "https://www.gnom-gnom.com/gluten-free-paleo-keto-bread/"
+               }, {
+                  "date_added": "13303867262000000",
+                  "date_last_used": "0",
+                  "guid": "40cb803d-006e-48cf-a5cd-96152fa75891",
+                  "id": "301",
+                  "name": "Classic Monkfruit Sweetener Sugar Substitute 1:1 Family Size | Lakanto",
+                  "type": "url",
+                  "url": "https://www.lakanto.com/collections/sweeteners/products/lakanto-classic-sugar-free-sweetener-family-size-800g?variant=48118202447&rfsn=2691176.cd9983"
+               }, {
+                  "date_added": "13304913605000000",
+                  "date_last_used": "0",
+                  "guid": "0a62b087-6994-4453-b4a4-fb5e570a9f2e",
+                  "id": "302",
+                  "name": "The Best Keto Pizza Recipe (Fathead Dough) | Wholesome Yum",
+                  "type": "url",
+                  "url": "https://www.wholesomeyum.com/recipes/fathead-pizza-crust-low-carb-keto-gluten-free-nut-free/"
+               }, {
+                  "date_added": "13305262336000000",
+                  "date_last_used": "0",
+                  "guid": "00afeb9c-2994-463f-8c1a-1f462cb5ef6a",
+                  "id": "303",
+                  "name": "Keto Stuffed Peppers [classic recipe] - Cast Iron Keto",
+                  "type": "url",
+                  "url": "https://www.castironketo.net/blog/keto-stuffed-peppers/"
+               }, {
+                  "date_added": "13305262487000000",
+                  "date_last_used": "0",
+                  "guid": "eaa57f53-ce7b-4c26-98f6-85c968a1f16f",
+                  "id": "304",
+                  "name": "Keto Pizza Crust Recipe - Easy Low-Carb Pizza Crust",
+                  "type": "url",
+                  "url": "https://www.delish.com/cooking/recipe-ideas/a19880909/low-carb-pizza-crust-recipe/"
+               }, {
+                  "date_added": "13305262511000000",
+                  "date_last_used": "0",
+                  "guid": "3543c295-f00e-4ac3-bdd7-118989573e76",
+                  "id": "305",
+                  "name": "20 Minute Keto Pizza | Gimme Delicious",
+                  "type": "url",
+                  "url": "https://gimmedelicious.com/keto-pizza/"
+               }, {
+                  "date_added": "13305262663000000",
+                  "date_last_used": "0",
+                  "guid": "1a88c9a3-00aa-4464-8f8e-1e8cf531b7c3",
+                  "id": "306",
+                  "name": "Keto Pepperoni Pizza with Fathead Crust Recipe | Allrecipes",
+                  "type": "url",
+                  "url": "https://www.allrecipes.com/recipe/273070/keto-pepperoni-pizza-with-fathead-crust/"
+               }, {
+                  "date_added": "13306894708000000",
+                  "date_last_used": "0",
+                  "guid": "1f33b4a6-41c3-4091-9796-c54ba0ba5b2a",
+                  "id": "307",
+                  "name": "Keto Hot Dog Buns- Just 6 Ingredients! - The Big Man's World ®",
+                  "type": "url",
+                  "url": "https://thebigmansworld.com/keto-hot-dog-buns/"
+               } ],
+               "date_added": "13326512393401550",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "67d50711-6297-4f84-8eca-c3383dca95bf",
+               "id": "292",
+               "name": "Keto",
+               "type": "folder"
+            }, {
+               "date_added": "13315354072000000",
+               "date_last_used": "0",
+               "guid": "8b441220-1a54-43e4-982c-ddf9f9a124f5",
+               "id": "308",
+               "name": "Easy Ham and Bean Soup Recipe (+ Slow Cooker Directions) | Lil' Luna",
+               "type": "url",
+               "url": "https://lilluna.com/creamy-ham-and-bean-soup/"
+            }, {
+               "date_added": "13316316303000000",
+               "date_last_used": "0",
+               "guid": "1161d3fd-4680-46c2-85e4-52308041f343",
+               "id": "309",
+               "name": "How Long To Cook A 10-Pound Pork Shoulder In The Oven - Foods Guy",
+               "type": "url",
+               "url": "https://foodsguy.com/cook-10-pound-pork-shoulder/"
+            } ],
+            "date_added": "13326512393401348",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "cc32abc6-5038-4248-96ae-3fd4e95f4079",
+            "id": "289",
+            "name": "Food",
+            "type": "folder"
+         }, {
+            "date_added": "13305597511000000",
+            "date_last_used": "0",
+            "guid": "8a45ac6d-b113-4182-b5a6-1d880e8f65d5",
+            "id": "310",
+            "name": "Invidious - An open source alternative front-end to YouTube",
+            "type": "url",
+            "url": "https://invidious.io/"
+         }, {
+            "date_added": "13318822264000000",
+            "date_last_used": "0",
+            "guid": "ed3ead44-3ffe-4028-a6fd-e1d7e996fbee",
+            "id": "311",
+            "name": "Plex",
+            "type": "url",
+            "url": "https://app.plex.tv/desktop/#!/"
+         }, {
+            "date_added": "13319436131000000",
+            "date_last_used": "0",
+            "guid": "ba34b88e-2d6c-4611-8d8b-bb534f4ca48d",
+            "id": "312",
+            "name": "pyLoad Webinterface",
+            "type": "url",
+            "url": "http://localhost:8000/"
+         }, {
+            "date_added": "13322719162000000",
+            "date_last_used": "13329597373965948",
+            "guid": "ce165e30-ad4a-48cd-8bd3-2f66584e32ae",
+            "id": "313",
+            "name": "How to Request a Copy of Your Background Investigation - ClearanceJobs",
+            "type": "url",
+            "url": "https://news.clearancejobs.com/2021/03/12/request-copy-background-investigation/"
+         }, {
+            "children": [ {
+               "date_added": "13308086243000000",
+               "date_last_used": "0",
+               "guid": "dc2b818b-8f90-49ac-9130-7e77802747fe",
+               "id": "315",
+               "name": "Easy Linux Tips Project: How to solve internet connection problems",
+               "type": "url",
+               "url": "https://easylinuxtipsproject.blogspot.com/p/internet.html#ID2.4"
+            }, {
+               "date_added": "13308086249000000",
+               "date_last_used": "0",
+               "guid": "08fec99d-e62b-42bf-a184-e98deca12f20",
+               "id": "316",
+               "name": "\u003CSOLVED> Wifi Intel Wi-Fi 6 AX200 unstable internet - Linux Mint Forums",
+               "type": "url",
+               "url": "https://forums.linuxmint.com/viewtopic.php?t=373773"
+            }, {
+               "date_added": "13308377848000000",
+               "date_last_used": "0",
+               "guid": "eed1a82e-69d9-4b4d-bc53-c79e4469632b",
+               "id": "317",
+               "name": "Sync Internals",
+               "type": "url",
+               "url": "chrome://sync-internals/"
+            }, {
+               "date_added": "13325663224000000",
+               "date_last_used": "0",
+               "guid": "37285c58-6ec2-469e-9924-651cadcf6972",
+               "id": "318",
+               "name": "The first heater that mines bitcoin",
+               "type": "url",
+               "url": "https://heatbit.com/?utm_source=BraveAds&utm_medium=PushCpc&utm_campaign=Push_3&utm_content=Push_3"
+            }, {
+               "date_added": "13326082481000000",
+               "date_last_used": "0",
+               "guid": "5f2ed6c8-9d53-4622-af01-28bfd5a83cd3",
+               "id": "319",
+               "name": "Unpopular Opinion #1: Teach Raw Pointers First – OneLoneCoder Community",
+               "type": "url",
+               "url": "https://community.onelonecoder.com/2020/10/05/unpopular-opinion-1-teach-raw-pointers-first/"
+            }, {
+               "date_added": "13326082488000000",
+               "date_last_used": "0",
+               "guid": "1f36ff1c-54dc-41f9-b17b-4229c3842860",
+               "id": "320",
+               "name": "OneLoneCoder Community – Written by the community…",
+               "type": "url",
+               "url": "https://community.onelonecoder.com/"
+            }, {
+               "date_added": "13326161908000000",
+               "date_last_used": "0",
+               "guid": "152e09a3-4797-46f5-9397-8b56686865a6",
+               "id": "321",
+               "name": "Plex",
+               "type": "url",
+               "url": "https://app.plex.tv/auth/#!?clientID=msp1xnyqwaplm4ikw9gij0io&context%5Bdevice%5D%5Bproduct%5D=Plex%20Web&context%5Bdevice%5D%5Bversion%5D=4.100.1&context%5Bdevice%5D%5Bplatform%5D=Chrome&context%5Bdevice%5D%5BplatformVersion%5D=112.0&context%5Bdevice%5D%5Bdevice%5D=Windows&context%5Bdevice%5D%5Bmodel%5D=bundled&context%5Bdevice%5D%5BscreenResolution%5D=1920x941%2C1920x1080&context%5Bdevice%5D%5Blayout%5D=desktop&context%5Bdevice%5D%5Bprotocol%5D=http-loopback&forwardUrl=http%3A%2F%2F127.0.0.1%3A32400%2Fweb%2Findex.html%23%21%2Flogin%3FredirectUrl%3D%252F%26pinID%3D1930479133&code=nqlq53y1mhk4mnb0ufvewl2lu&language=en"
+            }, {
+               "date_added": "13326428354000000",
+               "date_last_used": "0",
+               "guid": "bebc9dae-44cd-486e-9375-e4a41ad057b8",
+               "id": "322",
+               "name": "How To install apps on Windows 10 without Store — LazyAdmin",
+               "type": "url",
+               "url": "https://lazyadmin.nl/it/install-microsoft-store-apps-without-store/"
+            }, {
+               "date_added": "13326428362000000",
+               "date_last_used": "0",
+               "guid": "b99d6176-6275-4543-a145-38714a043676",
+               "id": "323",
+               "name": "Microsoft Store - Generation Project (v1.2.3) [by @rgadguard & mkuba50]",
+               "type": "url",
+               "url": "https://store.rg-adguard.net/"
+            }, {
+               "children": [ {
+                  "date_added": "13281393418000000",
+                  "date_last_used": "0",
+                  "guid": "eba6a2d2-bc31-460b-863d-821323f02f15",
+                  "id": "325",
+                  "name": "Fluffy Gluten-Free Pancakes - Mix now or save for later!",
+                  "type": "url",
+                  "url": "https://www.glutenfreepalate.com/gluten-free-pancake-mix-recipe/"
+               }, {
+                  "date_added": "13294690450000000",
+                  "date_last_used": "0",
+                  "guid": "cc3a2076-4cee-4e9f-9466-9411dfda17af",
+                  "id": "326",
+                  "name": "Greek Salad Dressing (Better Than Store-Bought) | Downshiftology",
+                  "type": "url",
+                  "url": "https://downshiftology.com/recipes/greek-salad-dressing/"
+               }, {
+                  "date_added": "13294690473000000",
+                  "date_last_used": "0",
+                  "guid": "b3166ad1-d381-4e18-b94b-4721c6e90a1b",
+                  "id": "327",
+                  "name": "Baked Chicken Breast | Gimme Some Oven",
+                  "type": "url",
+                  "url": "https://www.gimmesomeoven.com/baked-chicken-breast/"
+               } ],
+               "date_added": "13326512393403513",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "f6afe3ff-2338-44e7-bc7e-2374e0fc4b53",
+               "id": "324",
+               "name": "Gluten Free",
+               "type": "folder"
+            } ],
+            "date_added": "13326512393403041",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "2e4b9669-864f-4f0a-b6ab-eb09815bc6c5",
+            "id": "314",
+            "name": "Imported",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13335163385556787",
+               "date_last_used": "13336618769935528",
+               "guid": "359ba212-268d-4e32-818a-ef3b6edaa9ad",
+               "id": "185",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": ".NET Multi-platform App UI documentation - .NET MAUI | Microsoft Learn",
+               "type": "url",
+               "url": "https://learn.microsoft.com/en-us/dotnet/maui/"
+            }, {
+               "date_added": "13336343486078695",
+               "date_last_used": "13336350297854152",
+               "guid": "0b9308a3-19c1-4009-9a15-fe82ff0bcf19",
+               "id": "343",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Create Weather App In .NET MAUI 2023 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PL3fvNBbJYqs6MTRpTthdTbAL5MKXovm91"
+            }, {
+               "date_added": "13336453880220814",
+               "date_last_used": "0",
+               "guid": "76593e4b-7eee-4f52-b227-0feee665d7a8",
+               "id": "345",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": ".NET MAUI Tutorial Full Course - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=FT5P5ZktzZI&themeRefresh=1"
+            }, {
+               "date_added": "13336531225636032",
+               "date_last_used": "0",
+               "guid": "f73bd5fa-7f3a-4347-87f5-cd100dcf3789",
+               "id": "347",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How to: Save Files Using the SaveFileDialog Component - Windows Forms .NET Framework | Microsoft Learn",
+               "type": "url",
+               "url": "https://learn.microsoft.com/en-us/dotnet/desktop/winforms/controls/how-to-save-files-using-the-savefiledialog-component?view=netframeworkdesktop-4.8"
+            }, {
+               "date_added": "13336531230185480",
+               "date_last_used": "0",
+               "guid": "fd843dc8-9fb8-4c8e-9c38-cd7baf424db3",
+               "id": "348",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Drawing View in Xamarin Community Toolkit",
+               "type": "url",
+               "url": "https://vladislavantonyuk.github.io/articles/Drawing-View-in-Xamarin-Community-Toolkit/"
+            }, {
+               "date_added": "13336531240276747",
+               "date_last_used": "0",
+               "guid": "88dd847a-97fc-4e9f-98d5-298efb3d4a7a",
+               "id": "349",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Paint graphical objects - .NET MAUI | Microsoft Learn",
+               "type": "url",
+               "url": "https://learn.microsoft.com/en-us/dotnet/maui/user-interface/graphics/paint"
+            }, {
+               "date_added": "13336533216958655",
+               "date_last_used": "0",
+               "guid": "4081f666-84c3-45e9-ab80-2b65129c5fad",
+               "id": "350",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Drawing with .NET MAUI Community Toolkit – AskXammy",
+               "type": "url",
+               "url": "https://askxammy.com/drawing-with-net-maui-community-toolkit/"
+            }, {
+               "date_added": "13336533513810277",
+               "date_last_used": "0",
+               "guid": "d7322487-ab41-4413-bb9b-ee521ea801a1",
+               "id": "351",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "DrawingView - .NET MAUI Community Toolkit - .NET Community Toolkit | Microsoft Learn",
+               "type": "url",
+               "url": "https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/views/drawingview"
+            } ],
+            "date_added": "13336283674418284",
+            "date_last_used": "0",
+            "date_modified": "13336533513810277",
+            "guid": "7efd26b2-2389-4640-83f8-67b07bf75add",
+            "id": "339",
+            "name": ".net Maui",
+            "type": "folder"
+         } ],
+         "date_added": "13326510487558966",
+         "date_last_used": "0",
+         "date_modified": "13336283677909638",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13326510487558968",
+         "date_last_used": "0",
+         "date_modified": "13333335119197757",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "328",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13326510487558970",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "329",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

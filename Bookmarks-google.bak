@@ -1,0 +1,53 @@
+{
+   "checksum": "cc1f5c62ec7814f7928e2befab26c311",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13335767383821356",
+            "date_last_used": "0",
+            "date_modified": "13335767383821356",
+            "guid": "efeb5549-612d-4656-8982-a17069075213",
+            "id": "13",
+            "name": "test",
+            "type": "folder"
+         }, {
+            "date_added": "13335767548044529",
+            "date_last_used": "0",
+            "guid": "df7a482b-c1c5-4aa2-af8e-8cee539513d9",
+            "id": "15",
+            "name": "DuckDuckGo — Privacy, simplified.",
+            "type": "url",
+            "url": "https://duckduckgo.com/"
+         } ],
+         "date_added": "13335764354355200",
+         "date_last_used": "0",
+         "date_modified": "13335767548044529",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13335764354355201",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13335764354355202",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
