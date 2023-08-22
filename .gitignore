@@ -3,5 +3,5 @@
 **/.vscode
 **/*.txt
 **/*.json
-**/Output Files
-**/Input Files
+**/OutputFiles
+**/InputFiles
