@@ -1,1 +1,1 @@
-A test project to learn about JSON serialization and deserialization for future projects
+A test project to learn about JSON serialization and deserialization for future projects in .NET
