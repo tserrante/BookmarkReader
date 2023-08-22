@@ -1,0 +1,1 @@
+A test project to learn about JSON serialization and deserialization for future projects
